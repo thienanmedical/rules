@@ -1,0 +1,102 @@
+[
+  {
+    "abbKey": "cai",
+    "standFor": "Cái"
+  },
+  {
+    "abbKey": "vien",
+    "standFor": "Viên"
+  },
+  {
+    "abbKey": "lieu",
+    "standFor": "Liều"
+  },
+  {
+    "abbKey": "mieng",
+    "standFor": "Miếng"
+  },
+  {
+    "abbKey": "cuon",
+    "standFor": "Cuộn"
+  },
+  {
+    "abbKey": "soi",
+    "standFor": "Sợi"
+  },
+  {
+    "abbKey": "goi",
+    "standFor": "Gói"
+  },
+  {
+    "abbKey": "bo",
+    "standFor": "Bộ"
+  },
+  {
+    "abbKey": "hop",
+    "standFor": "Hộp"
+  },
+  {
+    "abbKey": "binh",
+    "standFor": "Bình"
+  },
+  {
+    "abbKey": "he thong",
+    "standFor": "Hệ thống"
+  },
+  {
+    "abbKey": "chiec",
+    "standFor": "Chiếc"
+  },
+  {
+    "abbKey": "may",
+    "standFor": "Máy"
+  },
+  {
+    "abbKey": "tan",
+    "standFor": "Tấn"
+  },
+  {
+    "abbKey": "tu",
+    "standFor": "Tủ"
+  },
+  {
+    "abbKey": "lo",
+    "standFor": "Lọ"
+  },
+  {
+    "abbKey": "mo hinh",
+    "standFor": "Mô hình"
+  },
+  {
+    "abbKey": "tuyp",
+    "standFor": "Tuýp"
+  },
+  {
+    "abbKey": "ham",
+    "standFor": "Hàm"
+  },
+  {
+    "abbKey": "to",
+    "standFor": "Tờ"
+  },
+  {
+    "abbKey": "bich",
+    "standFor": "Bịch"
+  },
+  {
+    "abbKey": "tam",
+    "standFor": "Tấm"
+  },
+  {
+    "abbKey": "qua",
+    "standFor": "Quả"
+  },
+  {
+    "abbKey": "dia",
+    "standFor": "Đĩa"
+  },
+  {
+    "abbKey": "mui",
+    "standFor": "Mũi"
+  }
+]

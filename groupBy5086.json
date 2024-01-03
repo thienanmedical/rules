@@ -1,0 +1,3372 @@
+[
+  {
+    "name": "Bông",
+    "tags": ["bông", "gòn", "tẩm", "dung", "dịch"],
+    "unit": ["gram", "kg", "gói", "cuộn"],
+    "id": 0
+  },
+  {
+    "name": "Bông",
+    "tags": ["bông", "tăm", "vô", "trùng"],
+    "unit": ["que", "cái"],
+    "id": 1
+  },
+  {
+    "name": "Dung dịch sát khuẩn, rửa vết thương",
+    "tags": [
+      "dung",
+      "dịch",
+      "rửa",
+      "tay",
+      "sát",
+      "khuẩn",
+      "khám",
+      "bệnh",
+      "thực",
+      "hiện",
+      "phẫu",
+      "thuật",
+      "thủ",
+      "xét",
+      "nghiệm"
+    ],
+    "unit": ["ml", "lít"],
+    "id": 2
+  },
+  {
+    "name": "Dung dịch sát khuẩn, rửa vết thương",
+    "tags": ["dung", "dịch", "rửa", "vết", "thương"],
+    "unit": ["ml", "lít", "chai"],
+    "id": 3
+  },
+  {
+    "name": "Dung dịch sát khuẩn, rửa vết thương",
+    "tags": ["dung", "dịch", "sát", "khuẩn", "khử", "trùng", "dụng", "cụ"],
+    "unit": ["ml", "lít"],
+    "id": 4
+  },
+  {
+    "name": "Dung dịch sát khuẩn, rửa vết thương",
+    "tags": [
+      "dung",
+      "dịch",
+      "sát",
+      "khuẩn",
+      "khử",
+      "trùng",
+      "phòng",
+      "xét",
+      "nghiệm",
+      "buồng",
+      "mổ",
+      "bệnh"
+    ],
+    "unit": ["ml", "lít"],
+    "id": 5
+  },
+  {
+    "name": "Dung dịch sát khuẩn, rửa vết thương",
+    "tags": ["dung", "dịch", "tẩy", "rửa", "dụng", "cụ"],
+    "unit": ["ml", "lít"],
+    "id": 6
+  },
+  {
+    "name": "Băng",
+    "tags": ["băng", "bột", "bó", "vải", "lót", "tất"],
+    "unit": ["cuộn"],
+    "id": 7
+  },
+  {
+    "name": "Băng",
+    "tags": ["băng", "chun", "đàn", "hồi"],
+    "unit": ["cuộn", "miếng", "cái"],
+    "id": 8
+  },
+  {
+    "name": "Băng",
+    "tags": ["băng", "cố", "định", "khớp", "điều", "trị", "chấn", "thương", "chỉnh", "hình"],
+    "unit": ["cuộn"],
+    "id": 9
+  },
+  {
+    "name": "Băng",
+    "tags": ["băng", "cuộn", "cá", "nhân"],
+    "unit": ["cuộn", "miếng", "cái"],
+    "id": 10
+  },
+  {
+    "name": "Băng",
+    "tags": ["băng", "phẫu", "thuật", "bó", "thương", "bỏng", "loét"],
+    "unit": ["cuộn", "miếng", "cái"],
+    "id": 11
+  },
+  {
+    "name": "Băng",
+    "tags": ["băng", "rốn"],
+    "unit": ["cuộn", "miếng", "cái"],
+    "id": 12
+  },
+  {
+    "name": "Băng",
+    "tags": ["băng", "vô", "trùng"],
+    "unit": ["cuộn", "miếng", "cái"],
+    "id": 13
+  },
+  {
+    "name": "Băng dính",
+    "tags": ["băng", "dán", "mi"],
+    "unit": ["miếng", "cái"],
+    "id": 14
+  },
+  {
+    "name": "Băng dính",
+    "tags": ["băng", "dính"],
+    "unit": ["cuộn", "miếng", "cái"],
+    "id": 15
+  },
+  {
+    "name": "Gạc, băng gạc y tế điều trị các vết thương",
+    "tags": ["gạc", "alginate"],
+    "unit": ["miếng", "cái"],
+    "id": 16
+  },
+  {
+    "name": "Gạc, băng gạc y tế điều trị các vết thương",
+    "tags": ["gạc"],
+    "unit": ["cuộn", "gói", "miếng", "cái"],
+    "id": 17
+  },
+  {
+    "name": "Gạc, băng gạc y tế điều trị các vết thương",
+    "tags": [
+      "gạc",
+      "gắn",
+      "với",
+      "băng",
+      "dính",
+      "vô",
+      "khuẩn",
+      "dùng",
+      "để",
+      "các",
+      "vết",
+      "thương",
+      "mổ",
+      "khâu"
+    ],
+    "unit": ["miếng", "cái"],
+    "id": 18
+  },
+  {
+    "name": "Gạc, băng gạc y tế điều trị các vết thương",
+    "tags": ["gạc", "hydrocolloid"],
+    "unit": ["miếng", "cái"],
+    "id": 19
+  },
+  {
+    "name": "Gạc, băng gạc y tế điều trị các vết thương",
+    "tags": ["gạc", "hydrogel"],
+    "unit": ["miếng", "cái"],
+    "id": 20
+  },
+  {
+    "name": "Gạc, băng gạc y tế điều trị các vết thương",
+    "tags": ["gạc", "rốn"],
+    "unit": ["miếng", "cái"],
+    "id": 21
+  },
+  {
+    "name": "Gạc, băng gạc y tế điều trị các vết thương",
+    "tags": ["gạc", "than", "hoạt", "tính", "thấm", "hút", "không"],
+    "unit": ["miếng", "cái"],
+    "id": 22
+  },
+  {
+    "name": "Gạc, băng gạc y tế điều trị các vết thương",
+    "tags": ["gạc", "xốp", "miếng", "cái", "foam"],
+    "unit": ["miếng", "cái"],
+    "id": 23
+  },
+  {
+    "name": "Gạc, băng gạc y tế điều trị các vết thương",
+    "tags": ["gạc", "lưới", "có", "tẩm", "kháng", "sinh", "hoặc", "chất", "sát", "khuẩn"],
+    "unit": ["miếng", "cái"],
+    "id": 24
+  },
+  {
+    "name": "Gạc, băng gạc y tế điều trị các vết thương",
+    "tags": ["miếng", "cái", "dán", "sát", "khuẩn"],
+    "unit": ["miếng", "cái"],
+    "id": 25
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": [
+      "dung",
+      "dịch",
+      "xịt",
+      "dùng",
+      "ngoài",
+      "điều",
+      "trị",
+      "phòng",
+      "ngừa",
+      "loét",
+      "do",
+      "tỳ",
+      "đè"
+    ],
+    "unit": ["chai", "lọ"],
+    "id": 26
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": ["gạc", "cầm", "máu"],
+    "unit": ["miếng", "cái"],
+    "id": 27
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": ["keo", "sinh", "học", "dán", "da", "mô", "dùng", "trong", "phẫu", "thuật"],
+    "unit": ["lọ", "miếng", "cái", "kit"],
+    "id": 28
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": ["miếng", "cái", "cầm", "máu", "mũi"],
+    "unit": ["miếng", "cái", "thỏi"],
+    "id": 29
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": [
+      "vật",
+      "liệu",
+      "cầm",
+      "máu",
+      "sáp",
+      "bone",
+      "surgicel",
+      "merocel",
+      "spongostan",
+      "gelitacel",
+      "floseal",
+      "heamostatic",
+      "liotit"
+    ],
+    "unit": ["miếng", "cái", "thỏi", "kit"],
+    "id": 30
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": [
+      "vật",
+      "liệu",
+      "sử",
+      "dụng",
+      "trong",
+      "điều",
+      "trị",
+      "tổn",
+      "thương",
+      "bằng",
+      "phương",
+      "pháp",
+      "hút",
+      "áp",
+      "lực",
+      "âm",
+      "miếng",
+      "cái",
+      "xốp",
+      "đầu",
+      "nối",
+      "dây",
+      "dẫn",
+      "dịch",
+      "băng",
+      "dán",
+      "cố",
+      "định"
+    ],
+    "unit": ["bộ"],
+    "id": 31
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": ["bơm", "sử", "dụng", "để", "thức", "ăn", "cho", "người", "bệnh"],
+    "unit": ["cái"],
+    "id": 32
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": ["bơm", "tiêm", "syringe", "dùng", "một", "lần"],
+    "unit": ["cái"],
+    "id": 33
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": ["bơm", "tiêm", "truyền", "áp", "lực"],
+    "unit": ["cái"],
+    "id": 34
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": ["bơm", "tiêm", "dùng", "cho", "máy", "điện", "tự", "động"],
+    "unit": ["cái"],
+    "id": 35
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": ["bơm", "tiêm", "dùng", "nhiều", "lần"],
+    "unit": ["cái"],
+    "id": 36
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": ["bơm", "tiêm", "insulin"],
+    "unit": ["cái"],
+    "id": 37
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": ["bơm", "tiêm", "liền", "kim", "dùng", "một", "lần"],
+    "unit": ["cái"],
+    "id": 38
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": ["bơm", "tiêm", "máy"],
+    "unit": ["cái"],
+    "id": 39
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": ["bút", "chích", "máu"],
+    "unit": ["cái"],
+    "id": 40
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": ["kim", "cánh", "bướm"],
+    "unit": ["cái"],
+    "id": 41
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": ["kim", "chích", "máu"],
+    "unit": ["cái"],
+    "id": 42
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": ["kim", "dùng", "cho", "buồng", "tiêm", "truyền", "cấy", "dưới", "da"],
+    "unit": ["cái"],
+    "id": 43
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": ["kim", "lẩy", "da"],
+    "unit": ["cái"],
+    "id": 44
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": ["kim", "lấy", "máu", "thuốc"],
+    "unit": ["cái"],
+    "id": 45
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": ["kim", "luồn", "mạch", "máu"],
+    "unit": ["cái"],
+    "id": 46
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": ["kim", "tiêm", "dùng", "một", "lần"],
+    "unit": ["cái"],
+    "id": 47
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": ["nút", "chặn", "đuôi", "kim", "luồn", "có", "hoặc", "không", "heparin"],
+    "unit": ["cái", "chiếc"],
+    "id": 48
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "chọc", "dò"],
+    "unit": ["cái"],
+    "id": 49
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "chọc", "hút", "tế", "bào", "qua", "nội", "soi"],
+    "unit": ["cái"],
+    "id": 50
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "chọc", "hút", "tủy", "xương"],
+    "unit": ["cái"],
+    "id": 51
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "dẫn", "lưu"],
+    "unit": ["cái"],
+    "id": 52
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "đo", "áp", "lực", "tĩnh", "mạch", "trung", "tâm", "cpv"],
+    "unit": ["cái"],
+    "id": 53
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "dùng", "trong", "thiết", "bị", "dẫn", "sóng"],
+    "unit": ["cái"],
+    "id": 54
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "gây", "tê", "mê"],
+    "unit": ["cái"],
+    "id": 55
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "lọc", "thận", "nhân", "tạo"],
+    "unit": ["cái"],
+    "id": 56
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "sinh", "thiết", "dùng", "một", "lần"],
+    "unit": ["cái"],
+    "id": 57
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "sinh", "thiết", "dùng", "nhiều", "lần"],
+    "unit": ["cái"],
+    "id": 58
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "sinh", "thiết", "tủy", "xương", "dùng", "nhiều", "lần"],
+    "unit": ["cái"],
+    "id": 59
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "định", "vị"],
+    "unit": ["cái"],
+    "id": 60
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "đốt", "sóng", "cao", "tần", "đầu", "ống", "thông"],
+    "unit": ["cái"],
+    "id": 61
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "laser", "nội", "mạch", "đầu", "đốt", "dây", "ống", "thông"],
+    "unit": ["cái"],
+    "id": 62
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "chọc", "và", "sinh", "thiết", "tạng"],
+    "unit": ["cái"],
+    "id": 63
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": ["kim", "chọc", "và", "sinh", "thiết", "xương"],
+    "unit": ["cái"],
+    "id": 64
+  },
+  {
+    "name": "Kim châm cứu",
+    "tags": ["kim", "châm", "cứu"],
+    "unit": ["bộ", "cái"],
+    "id": 65
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": [
+      "dây",
+      "dẫn",
+      "truyền",
+      "dịch",
+      "chạc",
+      "nối",
+      "bộ",
+      "phân",
+      "phối",
+      "cổng",
+      "chia",
+      "ống",
+      "đi",
+      "kèm"
+    ],
+    "unit": ["bộ"],
+    "id": 66
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": ["dây", "dẫn", "truyền", "khí", "chạc", "nối", "ống", "đi", "kèm"],
+    "unit": ["bộ"],
+    "id": 67
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": ["dây", "dẫn", "truyền", "máu", "chế", "phẩm"],
+    "unit": ["bộ"],
+    "id": 68
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": ["dây", "nối", "đi", "kèm", "truyền"],
+    "unit": ["cái"],
+    "id": 69
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": ["dây", "truyền", "dịch", "dùng", "cho", "máy", "tự", "động"],
+    "unit": ["bộ"],
+    "id": 70
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": [
+      "khóa",
+      "đi",
+      "kèm",
+      "dây",
+      "dẫn",
+      "hoặc",
+      "không",
+      "truyền",
+      "được",
+      "dùng",
+      "trong",
+      "dịch",
+      "máu",
+      "khí"
+    ],
+    "unit": ["cái"],
+    "id": 71
+  },
+  {
+    "name": "Găng tay",
+    "tags": ["găng", "cao", "su"],
+    "unit": ["đôi"],
+    "id": 72
+  },
+  {
+    "name": "Găng tay",
+    "tags": ["găng", "tay", "chăm", "sóc", "điều", "trị", "người", "bệnh"],
+    "unit": ["đôi"],
+    "id": 73
+  },
+  {
+    "name": "Găng tay",
+    "tags": ["găng", "tay", "sử", "dụng", "trong", "thăm", "khám"],
+    "unit": ["đôi"],
+    "id": 74
+  },
+  {
+    "name": "Găng tay",
+    "tags": [
+      "găng",
+      "tay",
+      "vô",
+      "trùng",
+      "dùng",
+      "trong",
+      "thăm",
+      "dò",
+      "chức",
+      "năng",
+      "xét",
+      "nghiệm"
+    ],
+    "unit": ["đôi"],
+    "id": 75
+  },
+  {
+    "name": "Găng tay",
+    "tags": ["găng", "tay", "vô", "trùng", "dùng", "trong", "thủ", "thuật", "phẫu"],
+    "unit": ["đôi"],
+    "id": 76
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": ["ống", "dây", "cho", "ăn"],
+    "unit": ["cái", "bộ"],
+    "id": 77
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": ["túi", "đo", "khối", "lượng", "máu", "sau", "sinh", "đẻ"],
+    "unit": ["cái"],
+    "id": 78
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": ["túi", "bao", "gói", "tiệt", "trùng"],
+    "unit": ["cái"],
+    "id": 79
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": ["túi", "lọ", "đựng", "thức", "ăn", "dung", "dịch", "nuôi", "dưỡng"],
+    "unit": ["cái"],
+    "id": 80
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": [
+      "túi",
+      "lọ",
+      "đựng",
+      "thức",
+      "ăn",
+      "dung",
+      "dịch",
+      "nuôi",
+      "dưỡng",
+      "tĩnh",
+      "mạch",
+      "theo",
+      "máy"
+    ],
+    "unit": ["cái"],
+    "id": 81
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": [
+      "túi",
+      "lọ",
+      "cát-sét",
+      "cassette",
+      "đựng",
+      "hoặc",
+      "đo",
+      "lượng",
+      "chất",
+      "thải",
+      "tiết",
+      "dịch",
+      "xả"
+    ],
+    "unit": ["cái"],
+    "id": 82
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": ["túi", "lọ", "hộp", "đựng", "bệnh", "phẩm"],
+    "unit": ["cái"],
+    "id": 83
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": ["túi", "hậu", "môn", "nhân", "tạo"],
+    "unit": ["cái"],
+    "id": 84
+  },
+  {
+    "name": "Ống thông",
+    "tags": ["ca-nuyn", "cannula"],
+    "unit": ["cái"],
+    "id": 85
+  },
+  {
+    "name": "Ống thông",
+    "tags": ["ống", "ca-nuyn", "cannula", "mở", "khí", "quản"],
+    "unit": ["cái"],
+    "id": 86
+  },
+  {
+    "name": "Ống thông",
+    "tags": ["ống", "nội", "khí", "quản", "sử", "dụng", "một", "lần", "canlene"],
+    "unit": ["bộ"],
+    "id": 87
+  },
+  {
+    "name": "Ống thông",
+    "tags": ["ống", "nội", "khí", "quản", "sử", "dụng", "nhiều", "lần"],
+    "unit": ["bộ"],
+    "id": 88
+  },
+  {
+    "name": "Ống thông",
+    "tags": ["ống", "nong", "bộ"],
+    "unit": ["cái", "bộ"],
+    "id": 89
+  },
+  {
+    "name": "Ống thông",
+    "tags": ["ống", "thông", "khí", "hòm", "nhĩ"],
+    "unit": ["cái"],
+    "id": 90
+  },
+  {
+    "name": "Ống thông",
+    "tags": ["ống", "sonde", "thở", "ô-xy", "02", "gọng"],
+    "unit": ["cái"],
+    "id": 91
+  },
+  {
+    "name": "Ống thông",
+    "tags": ["thông", "sonde"],
+    "unit": ["cái"],
+    "id": 92
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": ["bộ", "rửa", "dạ", "dày", "sử", "dụng", "một", "lần"],
+    "unit": ["bộ"],
+    "id": 93
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": ["ống", "sonde", "rửa", "dạ", "dày"],
+    "unit": ["cái"],
+    "id": 94
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": ["ống", "dẫn", "lưu", "drain"],
+    "unit": ["cái"],
+    "id": 95
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": ["ống", "dẫn", "lưu", "kehr"],
+    "unit": ["cái"],
+    "id": 96
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": ["ống", "hút", "thai"],
+    "unit": ["cái"],
+    "id": 97
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": ["ống", "dây", "hút", "đờm", "dịch", "khí", "mỡ"],
+    "unit": ["cái", "bộ"],
+    "id": 98
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": ["ống", "dây", "rửa", "hút", "dùng", "cho", "thiết", "bị", "thủ", "thuật", "phẫu"],
+    "unit": ["bộ"],
+    "id": 99
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": ["bộ", "dây", "dẫn", "dịch", "vào", "khớp"],
+    "unit": ["bộ"],
+    "id": 100
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": ["bộ", "dây", "lọc", "máu"],
+    "unit": ["bộ"],
+    "id": 101
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": ["bộ", "dây", "thở", "ô-xy", "dùng", "một", "lần"],
+    "unit": ["bộ"],
+    "id": 102
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": ["bộ", "phận", "chuyển", "tiếp", "transfer", "set"],
+    "unit": ["cái"],
+    "id": 103
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": ["chạc", "2", "dây", "có", "đầu", "nối", "an", "toàn", "sinh", "học"],
+    "unit": ["cái", "bộ"],
+    "id": 104
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": ["đầu", "nối", "ống", "titanium"],
+    "unit": ["cái"],
+    "id": 105
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": ["dây", "chạy", "máy", "tim", "phổi", "nhân", "tạo"],
+    "unit": ["bộ"],
+    "id": 106
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": ["ống", "gone", "thủy", "tinh", "đặt", "lệ", "quản"],
+    "unit": ["bộ"],
+    "id": 107
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": ["ống", "nối", "dây", "chạc", "adapter", "dùng", "trong", "thiết", "bị"],
+    "unit": ["cái"],
+    "id": 108
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": [
+      "ống",
+      "nối",
+      "dây",
+      "chạc",
+      "adapter",
+      "bộ",
+      "phân",
+      "phối",
+      "manifold",
+      "và",
+      "cổng",
+      "chia",
+      "stopcock",
+      "dùng",
+      "trong",
+      "thủ",
+      "thuật",
+      "phẫu",
+      "chăm",
+      "sóc",
+      "người",
+      "bệnh"
+    ],
+    "unit": ["cái", "bộ"],
+    "id": 109
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": ["bộ", "dây", "thẩm", "phân", "phúc", "mạc", "cassette"],
+    "unit": ["bộ"],
+    "id": 110
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": ["bộ", "dây", "máy", "thở", "cao", "tần", "van", "chụp", "màng", "rung"],
+    "unit": ["bộ"],
+    "id": 111
+  },
+  {
+    "name": "Catheter",
+    "tags": ["ống", "thông", "catheter"],
+    "unit": ["cái"],
+    "id": 112
+  },
+  {
+    "name": "Catheter",
+    "tags": ["ống", "thông", "dẫn", "đường", "guiding", "catheter"],
+    "unit": ["cái"],
+    "id": 113
+  },
+  {
+    "name": "Catheter",
+    "tags": ["vi", "ống", "thông", "micro-catheter"],
+    "unit": ["cái"],
+    "id": 114
+  },
+  {
+    "name": "Catheter",
+    "tags": [
+      "nắp",
+      "đóng",
+      "bộ",
+      "chuyển",
+      "tiếp",
+      "của",
+      "catheter",
+      "chuyên",
+      "dụng",
+      "trong",
+      "lọc",
+      "màng",
+      "bụng",
+      "minicap"
+    ],
+    "unit": ["cái"],
+    "id": 115
+  },
+  {
+    "name": "Kim khâu",
+    "tags": ["kim", "khâu"],
+    "unit": ["cái"],
+    "id": 116
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": ["chỉ", "cố", "định", "thủy", "tinh", "thể", "nhân", "tạo"],
+    "unit": ["sợi", "cuộn", "tép"],
+    "id": 117
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": ["chỉ", "khâu", "đặc", "biệt"],
+    "unit": ["sợi", "cuộn", "tép"],
+    "id": 118
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": ["chỉ", "khâu", "không", "tiêu"],
+    "unit": ["sợi", "cuộn", "tép"],
+    "id": 119
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": ["chỉ", "khâu", "liền", "kim"],
+    "unit": ["sợi", "tép"],
+    "id": 120
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": ["chỉ", "khâu", "tiêu", "chậm"],
+    "unit": ["sợi", "cuộn", "tép"],
+    "id": 121
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": ["chỉ", "khâu", "tiêu", "nhanh"],
+    "unit": ["sợi", "cuộn", "tép"],
+    "id": 122
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": ["chỉ", "thép", "dây", "dùng", "trong", "phẫu", "thuật"],
+    "unit": ["sợi", "cuộn", "tép"],
+    "id": 123
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": ["vật", "liệu", "thay", "thế", "chỉ", "khâu"],
+    "unit": ["miếng", "cái"],
+    "id": 124
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": ["chỉ", "khâu", "tiêu", "trung", "bình"],
+    "unit": ["sợi", "cuộn", "tép"],
+    "id": 125
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": ["bản", "cực", "trung", "tính", "cho", "dao", "mổ", "điện", "sử", "dụng", "một", "lần"],
+    "unit": ["cái"],
+    "id": 126
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": ["các", "loại", "dao", "lưỡi", "sử", "dụng", "trong", "phẫu", "thuật"],
+    "unit": ["cái"],
+    "id": 127
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": ["dao", "mổ", "liền", "cán", "sử", "dụng", "một", "lần"],
+    "unit": ["cái"],
+    "id": 128
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": [
+      "đầu",
+      "đốt",
+      "đơn",
+      "cực",
+      "lưỡng",
+      "kết",
+      "hợp",
+      "lưỡi",
+      "dao",
+      "mổ",
+      "điện",
+      "laser",
+      "siêu",
+      "âm",
+      "plasma",
+      "radio",
+      "cắt",
+      "gan",
+      "hàn",
+      "mạch",
+      "mô",
+      "tay",
+      "và",
+      "dây"
+    ],
+    "unit": ["cái"],
+    "id": 129
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": ["dây", "cưa", "sử", "dụng", "trong", "thủ", "thuật", "phẫu"],
+    "unit": ["sợi", "dây"],
+    "id": 130
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": ["lưỡi", "bào", "cắt", "dao", "sụn", "đốt", "dùng", "trong", "phẫu", "thuật", "tay"],
+    "unit": ["cái", "bộ"],
+    "id": 131
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": ["lưỡi", "dao", "cắt", "mô", "nghiền"],
+    "unit": ["cái"],
+    "id": 132
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": ["lưỡi", "dao", "mổ", "sử", "dụng", "một", "lần"],
+    "unit": ["cái"],
+    "id": 133
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": ["lưỡi", "cắt", "đốt", "bằng", "sóng", "radio"],
+    "unit": ["cái"],
+    "id": 134
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": ["mạch", "máu", "nhân", "tạo"],
+    "unit": ["cái", "đoạn"],
+    "id": 135
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": ["van", "dẫn", "lưu", "nhân", "tạo"],
+    "unit": ["bộ"],
+    "id": 136
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": ["van", "tim", "nhân", "tạo", "động", "mạch"],
+    "unit": ["cái"],
+    "id": 137
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": ["vòng", "van", "tim", "nhân", "tạo"],
+    "unit": ["cái"],
+    "id": 138
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": ["van", "tim", "nhân", "tạo", "kèm", "giá", "đỡ", "sinh", "học"],
+    "unit": ["cái"],
+    "id": 139
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": ["ống", "van", "động", "mạch", "chủ", "cơ", "học", "sinh"],
+    "unit": ["cái"],
+    "id": 140
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": ["ống", "van", "động", "mạch", "phổi", "sinh", "học"],
+    "unit": ["cái"],
+    "id": 141
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": ["stent", "động", "mạch", "vành", "loại", "thường", "không", "phủ", "thuốc"],
+    "unit": ["cái"],
+    "id": 142
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": ["stent", "động", "mạch", "vành", "phủ", "thuốc"],
+    "unit": ["cái"],
+    "id": 143
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": ["stent", "động", "mạch", "thận"],
+    "unit": ["cái"],
+    "id": 144
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": ["stent", "động", "mạch", "chi"],
+    "unit": ["cái"],
+    "id": 145
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": ["stent", "động", "mạch", "cảnh"],
+    "unit": ["cái"],
+    "id": 146
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": ["stent", "graft", "động", "mạch", "chủ", "ngực"],
+    "unit": ["cái"],
+    "id": 147
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": ["stent", "graft", "động", "mạch", "chủ", "bụng"],
+    "unit": ["cái"],
+    "id": 148
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": ["stent", "nội", "mạch", "làm", "thay", "đổi", "hướng", "dòng", "chảy"],
+    "unit": ["cái"],
+    "id": 149
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": ["khung", "giá", "đỡ", "stent", "có", "màng", "bọc", "cover"],
+    "unit": ["cái"],
+    "id": 150
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": ["giá", "đỡ", "stent", "khác"],
+    "unit": ["cái"],
+    "id": 151
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["thủy", "tinh", "thể", "nhân", "tạo", "iol", "toric", "cứng", "mềm", "treo"],
+    "unit": ["cái"],
+    "id": 152
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["bộ", "chỏm", "xương", "nhân", "tạo", "và", "các", "phận", "kèm", "theo"],
+    "unit": ["bộ"],
+    "id": 153
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": [
+      "đốt",
+      "sống",
+      "nhân",
+      "tạo",
+      "miếng",
+      "cái",
+      "ghép",
+      "cột",
+      "đĩa",
+      "đệm",
+      "trong",
+      "phẫu",
+      "thuật"
+    ],
+    "unit": ["cái", "miếng", "cái", "hộp"],
+    "id": 154
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["gân", "nhân", "tạo"],
+    "unit": ["đoạn"],
+    "id": 155
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["gốm", "sinh", "học", "dùng", "thay", "thế", "xương"],
+    "unit": ["cái"],
+    "id": 156
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["khớp", "ổ", "toàn", "phần", "hoặc", "bán", "nhân", "tạo", "chuôi"],
+    "unit": ["bộ"],
+    "id": 157
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["khớp", "háng", "toàn", "phần"],
+    "unit": ["bộ"],
+    "id": 158
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["khớp", "háng", "bán", "phần"],
+    "unit": ["bộ"],
+    "id": 159
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["khớp", "gối"],
+    "unit": ["bộ"],
+    "id": 160
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["khớp", "vai"],
+    "unit": ["bộ"],
+    "id": 161
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["sụn", "nhân", "tạo"],
+    "unit": ["đoạn", "miếng", "cái"],
+    "id": 162
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["xương", "bảo", "quản", "sản", "phẩm", "sinh", "học", "thay", "thế"],
+    "unit": ["cái"],
+    "id": 163
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": [
+      "xương",
+      "con",
+      "dùng",
+      "trong",
+      "phẫu",
+      "thuật",
+      "tái",
+      "tạo",
+      "hệ",
+      "thống",
+      "truyền",
+      "âm"
+    ],
+    "unit": ["cái"],
+    "id": 164
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": ["xương", "nhân", "tạo"],
+    "unit": ["đoạn", "miếng", "cái"],
+    "id": 165
+  },
+  {
+    "name": "Miếng vá, mảnh ghép",
+    "tags": ["màng", "vá", "sinh", "học"],
+    "unit": ["miếng", "cái"],
+    "id": 166
+  },
+  {
+    "name": "Miếng vá, mảnh ghép",
+    "tags": ["mảnh", "ghép", "thoát", "vị", "bẹn", "thành", "bụng"],
+    "unit": ["cái"],
+    "id": 167
+  },
+  {
+    "name": "Miếng vá, mảnh ghép",
+    "tags": ["miếng", "cái", "vá", "khuyết", "sọ"],
+    "unit": ["miếng", "cái"],
+    "id": 168
+  },
+  {
+    "name": "Miếng vá, mảnh ghép",
+    "tags": ["miếng", "cái", "vá", "tim", "mạch", "máu"],
+    "unit": ["miếng", "cái"],
+    "id": 169
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": ["da", "dùng", "trong", "cấy", "ghép"],
+    "unit": ["tấm", "miếng", "cái"],
+    "id": 170
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": ["màng", "sinh", "học", "khác", "dùng", "trong", "điều", "trị"],
+    "unit": ["tấm", "miếng", "cái"],
+    "id": 171
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": ["keo", "sinh", "học", "sử", "dụng", "trong", "điều", "trị"],
+    "unit": ["lọ", "tuýp"],
+    "id": 172
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": ["màng", "ối"],
+    "unit": ["tấm", "miếng", "cái"],
+    "id": 173
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": ["màng", "tái", "tạo", "mô", "nhân"],
+    "unit": ["cái", "miếng", "cái"],
+    "id": 174
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": [
+      "tế",
+      "bào",
+      "sừng",
+      "sợi",
+      "nuôi",
+      "cấy",
+      "dùng",
+      "trong",
+      "điều",
+      "trị",
+      "bỏng",
+      "hay",
+      "các",
+      "tổn",
+      "thương",
+      "khác"
+    ],
+    "unit": ["tấm", "miếng", "cái"],
+    "id": 175
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": ["màng", "não", "nhân", "tạo", "miếng", "cái", "vá"],
+    "unit": ["cái", "miếng", "cái"],
+    "id": 176
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": ["màng", "nuôi", "cấy", "sản", "phẩm"],
+    "unit": ["cái", "miếng", "cái"],
+    "id": 177
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bộ",
+      "dụng",
+      "cụ",
+      "siêu",
+      "âm",
+      "trong",
+      "lòng",
+      "mạch",
+      "đầu",
+      "dò",
+      "và",
+      "hệ",
+      "thống",
+      "máng",
+      "trượt"
+    ],
+    "unit": ["bộ"],
+    "id": 178
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "dây", "truyền", "dung", "dịch", "liệt", "tim"],
+    "unit": ["bộ"],
+    "id": 179
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bộ",
+      "điều",
+      "trị",
+      "nội",
+      "mạch",
+      "loại",
+      "kim",
+      "chọc",
+      "dây",
+      "dẫn",
+      "catheter",
+      "để",
+      "luồn",
+      "cáp",
+      "quang",
+      "đốt"
+    ],
+    "unit": ["bộ"],
+    "id": 180
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bộ",
+      "dụng",
+      "cụ",
+      "bít",
+      "thông",
+      "liên",
+      "nhĩ",
+      "thất",
+      "ống",
+      "động",
+      "mạch",
+      "tiểu",
+      "trái",
+      "các",
+      "đường",
+      "rò",
+      "bất",
+      "thường",
+      "trong",
+      "tim"
+    ],
+    "unit": ["bộ"],
+    "id": 181
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "dụng", "cụ", "đặt", "stent", "graft"],
+    "unit": ["bộ"],
+    "id": 182
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "dụng", "cụ", "điều", "trị", "rối", "loạn", "nhịp", "tim", "bằng", "rf"],
+    "unit": ["bộ"],
+    "id": 183
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "dụng", "cụ", "điều", "trị", "rung", "nhĩ", "qua", "đường", "ống", "thông"],
+    "unit": ["bộ"],
+    "id": 184
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bộ",
+      "dụng",
+      "cụ",
+      "đo",
+      "dự",
+      "trữ",
+      "lưu",
+      "lượng",
+      "động",
+      "mạch",
+      "vành",
+      "và",
+      "để",
+      "đưa",
+      "vào",
+      "lòng",
+      "ffr"
+    ],
+    "unit": ["bộ"],
+    "id": 185
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bộ",
+      "dụng",
+      "cụ",
+      "dùng",
+      "trong",
+      "khoan",
+      "phá",
+      "động",
+      "mạch",
+      "vành",
+      "dây",
+      "dẫn",
+      "cho",
+      "đầu",
+      "mũi",
+      "rotawire",
+      "dung",
+      "dịch",
+      "bôi",
+      "trơn",
+      "lubricant",
+      "rotaglide",
+      "rotalink",
+      "burr",
+      "thiết",
+      "bị",
+      "đẩy",
+      "và",
+      "hệ",
+      "thống",
+      "khí",
+      "nén",
+      "rotablator",
+      "advancer"
+    ],
+    "unit": ["bộ"],
+    "id": 186
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bộ",
+      "dụng",
+      "cụ",
+      "lấy",
+      "huyết",
+      "khối",
+      "trong",
+      "lòng",
+      "mạch",
+      "máu",
+      "ống",
+      "hút",
+      "vi",
+      "thông",
+      "khoan",
+      "giá",
+      "đỡ",
+      "kéo",
+      "khối..."
+    ],
+    "unit": ["bộ"],
+    "id": 187
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bộ",
+      "dụng",
+      "cụ",
+      "mở",
+      "đường",
+      "vào",
+      "mạch",
+      "máu",
+      "kim",
+      "chọc",
+      "dây",
+      "dẫn",
+      "ống",
+      "có",
+      "van",
+      "tạo",
+      "lòng",
+      "introducer",
+      "sheath"
+    ],
+    "unit": ["bộ"],
+    "id": 188
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bộ",
+      "dụng",
+      "cụ",
+      "nong",
+      "van",
+      "tim",
+      "bóng",
+      "và",
+      "các",
+      "phụ",
+      "kiện",
+      "đi",
+      "kèm"
+    ],
+    "unit": ["bộ"],
+    "id": 189
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "dụng", "cụ", "nút", "mạch"],
+    "unit": ["bộ"],
+    "id": 190
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "dụng", "cụ", "thả", "coil"],
+    "unit": ["cái"],
+    "id": 191
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "dụng", "cụ", "thăm", "dò", "điện", "sinh", "lý", "tim", "máy", "cực"],
+    "unit": ["bộ"],
+    "id": 192
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "dụng", "cụ", "thay", "van", "tim", "qua", "đường", "ống", "thông", "sửa"],
+    "unit": ["bộ"],
+    "id": 193
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bộ",
+      "dụng",
+      "cụ",
+      "thông",
+      "tim",
+      "thăm",
+      "dò",
+      "huyết",
+      "động",
+      "và",
+      "chụp",
+      "mạch",
+      "ống",
+      "để",
+      "vành",
+      "các",
+      "khác",
+      "buồng"
+    ],
+    "unit": ["bộ"],
+    "id": 194
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bộ",
+      "dụng",
+      "cụ",
+      "thông",
+      "tim",
+      "thăm",
+      "dò",
+      "huyết",
+      "động",
+      "và",
+      "chụp",
+      "buồng"
+    ],
+    "unit": ["bộ"],
+    "id": 195
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "thả", "dù"],
+    "unit": ["bộ"],
+    "id": 196
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "thắt", "tĩnh", "mạch", "thực", "quản", "dùng", "một", "lần"],
+    "unit": ["bộ"],
+    "id": 197
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "tim", "phổi", "nhân", "tạo"],
+    "unit": ["bộ"],
+    "id": 198
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "tim", "phổi", "nhân", "tạo", "trong", "phẫu", "thuật"],
+    "unit": ["bộ"],
+    "id": 199
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "phổi",
+      "nhân",
+      "tạo",
+      "bình",
+      "chứa",
+      "máu",
+      "reservoir",
+      "bộ",
+      "phận",
+      "trộn",
+      "khí",
+      "trao",
+      "đổi",
+      "nhiệt"
+    ],
+    "unit": [""],
+    "id": 200
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["hệ", "thống", "dây", "dẫn", "circuit", "kèm", "theo", "bộ", "phận", "bẫy", "khí"],
+    "unit": [""],
+    "id": 201
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "phận", "lọc", "quả", "máu", "fillter"],
+    "unit": [""],
+    "id": 202
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["cannuyn", "kết", "nối", "vào", "mạch", "máu", "động", "tĩnh"],
+    "unit": [""],
+    "id": 203
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "phận", "kết", "nối", "connector", "các", "chạc", "ba", "vào", "dây"],
+    "unit": [""],
+    "id": 204
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "tim", "phổi", "nhân", "tạo", "ecmo", "trong", "hồi", "sức", "cấp", "cứu"],
+    "unit": ["bộ"],
+    "id": 205
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["phổi", "nhân", "tạo", "bộ", "phận", "trộn", "khí", "trao", "đổi", "nhiệt"],
+    "unit": [""],
+    "id": 206
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["dây", "dẫn", "circuit"],
+    "unit": [""],
+    "id": 207
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "phận", "kết", "nối", "canuyn", "vào", "mạch", "máu", "động", "tĩnh"],
+    "unit": [""],
+    "id": 208
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bình", "chứa", "máu", "kín", "reservoir"],
+    "unit": [""],
+    "id": 209
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["hệ", "thống", "bơm", "ly", "tâm"],
+    "unit": [""],
+    "id": 210
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bộ", "phận", "lọc", "máu", "quả", "filter"],
+    "unit": [""],
+    "id": 211
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["hệ", "thống", "m", "biến", "dòng"],
+    "unit": [""],
+    "id": 212
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bơm", "áp", "lực"],
+    "unit": ["cái", "bộ"],
+    "id": 213
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bơm", "áp", "lực", "cao", "trong", "chụp", "buồng", "tim", "mạch"],
+    "unit": ["bộ"],
+    "id": 214
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bóng",
+      "nong",
+      "balloon",
+      "bơm",
+      "ngược",
+      "dòng",
+      "động",
+      "mạch",
+      "chủ",
+      "bóng",
+      "tách",
+      "rời",
+      "chẹn"
+    ],
+    "unit": ["cái", "bộ"],
+    "id": 215
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["dây", "bơm", "áp", "lực", "cao", "n", "quang"],
+    "unit": ["cái"],
+    "id": 216
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "dây",
+      "dẫn",
+      "áp",
+      "lực",
+      "để",
+      "đo",
+      "dự",
+      "trữ",
+      "dòng",
+      "chảy",
+      "động",
+      "mạch",
+      "vành",
+      "ffr"
+    ],
+    "unit": ["bộ"],
+    "id": 217
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["dây", "dẫn", "đường", "guide", "wire"],
+    "unit": ["cái"],
+    "id": 218
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["dù", "amplatzer", "dạng", "lưới", "kim", "loại", "tự", "nở"],
+    "unit": ["cái", "bộ"],
+    "id": 219
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "dù",
+      "bảo",
+      "vệ",
+      "chống",
+      "tắc",
+      "mạch",
+      "hạ",
+      "lưu",
+      "động",
+      "vành",
+      "và",
+      "các",
+      "khác",
+      "để",
+      "ngăn",
+      "ngừa",
+      "biến",
+      "cố",
+      "đoạn",
+      "xa",
+      "khi",
+      "can",
+      "thiệp"
+    ],
+    "unit": ["cái"],
+    "id": 220
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["dụng", "cụ", "cố", "định", "mạch", "vành"],
+    "unit": ["cái"],
+    "id": 221
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "dụng",
+      "cụ",
+      "để",
+      "thả",
+      "hoặc",
+      "cắt",
+      "vòng",
+      "xoắn",
+      "kim",
+      "loại",
+      "dây",
+      "đẩy",
+      "coils"
+    ],
+    "unit": ["cái"],
+    "id": 222
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["dụng", "cụ", "đóng", "lòng", "mạch", "angioseal", "perclose"],
+    "unit": ["bộ"],
+    "id": 223
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["dụng", "cụ", "lấy", "dị", "vật", "multi-snare", "trong", "tim", "mạch"],
+    "unit": ["cái"],
+    "id": 224
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["dụng", "cụ", "bào", "gọt", "lấy", "mảng", "xơ", "vữa", "thành", "mạch"],
+    "unit": ["cái"],
+    "id": 225
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["dụng", "cụ", "thổi", "co2", "blower", "có", "đường", "bổ", "sung", "nước"],
+    "unit": ["cái"],
+    "id": 226
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["dụng", "cụ", "treo", "mỏm", "tim"],
+    "unit": ["cái"],
+    "id": 227
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["keo", "nút", "mạch", "onyx", "histoacryl"],
+    "unit": ["lọ", "tuýp"],
+    "id": 228
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["kim", "hút", "khí", "gốc", "động", "mạch"],
+    "unit": ["cái"],
+    "id": 229
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["lưới", "lọc", "tĩnh", "mạch"],
+    "unit": ["cái"],
+    "id": 230
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["máy", "tạo", "nhịp", "và", "hệ", "thống", "dây"],
+    "unit": ["bộ"],
+    "id": 231
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["máy", "tạo", "nhịp", "1", "buồng"],
+    "unit": ["bộ"],
+    "id": 232
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["máy", "tạo", "nhịp", "2", "buồng"],
+    "unit": ["bộ"],
+    "id": 233
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "máy",
+      "tạo",
+      "nhịp",
+      "3",
+      "buồng",
+      "tái",
+      "đồng",
+      "bộ",
+      "cơ",
+      "tim",
+      "trong",
+      "điều",
+      "trị",
+      "suy"
+    ],
+    "unit": ["bộ"],
+    "id": 234
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["máy", "tạo", "nhịp", "có", "phá", "rung", "cấy", "vào", "cơ", "thể"],
+    "unit": ["bộ"],
+    "id": 235
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["shunt", "trong", "lòng", "động", "mạch", "vành", "ngoại", "biên"],
+    "unit": ["cái"],
+    "id": 236
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["vật", "liệu", "nút", "mạch", "hạt", "nhựa", "pva", "lipiodol"],
+    "unit": ["miếng", "cái", "thỏi", "lọ"],
+    "id": 237
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["vật", "liệu", "nút", "mạch", "điều", "trị", "ung", "thư", "gan"],
+    "unit": ["miếng", "cái", "thỏi", "lọ"],
+    "id": 238
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["vật", "liệu", "nút", "mạch", "tạm", "thời", "spongel"],
+    "unit": ["miếng", "cái", "thỏi", "lọ"],
+    "id": 239
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["vi", "dây", "dẫn", "đường", "micro", "guide", "wire"],
+    "unit": ["cái"],
+    "id": 240
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["vòng", "xoắn", "kim", "loại", "coils", "matrix"],
+    "unit": ["cái"],
+    "id": 241
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": [
+      "bộ",
+      "dụng",
+      "cụ",
+      "điều",
+      "trị",
+      "rối",
+      "loạn",
+      "nhịp",
+      "tim",
+      "sử",
+      "hệ",
+      "thống",
+      "lập",
+      "bản",
+      "đồ",
+      "ba",
+      "chiều",
+      "giải",
+      "phẫu",
+      "điện",
+      "học",
+      "các",
+      "buồng"
+    ],
+    "unit": ["bộ"],
+    "id": 242
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["bóng", "kéo"],
+    "unit": ["cái", "bộ"],
+    "id": 243
+  },
+  {
+    "name": "Tim mạch và X-quang can thiệp",
+    "tags": ["phim", "x-", "quang"],
+    "unit": ["cái"],
+    "id": 244
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": ["bộ", "lọc", "màng", "bụng", "cấp", "cứu", "sử", "dụng", "một", "lần"],
+    "unit": ["bộ"],
+    "id": 245
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": [
+      "bộ",
+      "lọc",
+      "màng",
+      "bụng",
+      "thẩm",
+      "phân",
+      "phúc",
+      "mạc",
+      "catheter",
+      "chuyên",
+      "dụng",
+      "đầu",
+      "nối",
+      "titanium",
+      "hệ",
+      "thống",
+      "dây"
+    ],
+    "unit": ["bộ"],
+    "id": 246
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": ["bộ", "thay", "máu", "sử", "dụng", "một", "lần"],
+    "unit": ["bộ"],
+    "id": 247
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": ["quả", "lọc", "tách", "huyết", "tương", "và", "bộ", "dây", "dẫn"],
+    "unit": ["quả", "bộ"],
+    "id": 248
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": [
+      "quả",
+      "lọc",
+      "và",
+      "hệ",
+      "thống",
+      "dây",
+      "dẫn",
+      "trong",
+      "kỹ",
+      "thuật",
+      "hấp",
+      "thụ",
+      "phân",
+      "tử",
+      "liên",
+      "tục"
+    ],
+    "unit": ["bộ"],
+    "id": 249
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": [
+      "quả",
+      "lọc",
+      "màng",
+      "máu",
+      "và",
+      "hệ",
+      "thống",
+      "dây",
+      "dẫn",
+      "đi",
+      "kèm",
+      "trong",
+      "siêu",
+      "liên",
+      "tục"
+    ],
+    "unit": ["quả", "bộ"],
+    "id": 250
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": [
+      "quả",
+      "lọc",
+      "màng",
+      "máu",
+      "và",
+      "hệ",
+      "thống",
+      "dây",
+      "dẫn",
+      "trong",
+      "hemodialysis",
+      "định",
+      "kỳ",
+      "thận",
+      "nhân",
+      "tạo"
+    ],
+    "unit": ["bộ"],
+    "id": 251
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": ["quả", "lọc", "thận", "nhân", "tạo"],
+    "unit": ["quả"],
+    "id": 252
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": [
+      "bộ",
+      "cố",
+      "định",
+      "ngoài",
+      "kiểu",
+      "cọc",
+      "ép",
+      "răng",
+      "sử",
+      "dụng",
+      "trong",
+      "điều",
+      "trị"
+    ],
+    "unit": ["bộ"],
+    "id": 253
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": [
+      "bộ",
+      "dao",
+      "củng",
+      "mạc",
+      "dùng",
+      "một",
+      "lần",
+      "trong",
+      "phẫu",
+      "thuật",
+      "cắt",
+      "dịch",
+      "kính",
+      "võng"
+    ],
+    "unit": ["bộ"],
+    "id": 254
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["bộ", "tiền", "phòng", "nhân", "tạo", "dùng", "trong", "ghép", "giác", "mạc"],
+    "unit": ["bộ"],
+    "id": 255
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": [
+      "chất",
+      "nhầy",
+      "dung",
+      "dịch",
+      "hỗ",
+      "trợ",
+      "dùng",
+      "trong",
+      "phẫu",
+      "thuật",
+      "đặt",
+      "thủy",
+      "tinh",
+      "thể",
+      "nhân",
+      "tạo",
+      "phaco"
+    ],
+    "unit": ["lọ", "ống"],
+    "id": 256
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["chất", "nhuộm", "màu", "dùng", "trong", "phẫu", "thuật", "mắt"],
+    "unit": ["lọ", "ml"],
+    "id": 257
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": [
+      "đầu",
+      "cắt",
+      "bộ",
+      "dịch",
+      "kính",
+      "bao",
+      "sau",
+      "màng",
+      "đồng",
+      "tử",
+      "thủy",
+      "tinh",
+      "thể",
+      "dùng",
+      "một",
+      "lần",
+      "nhiều"
+    ],
+    "unit": ["bộ", "cái"],
+    "id": 258
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["đầu", "cắt", "nạo", "amidan", "nhanh", "cuốn", "mũi", "dùng", "một", "lần"],
+    "unit": ["bộ", "cái"],
+    "id": 259
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": [
+      "đầu",
+      "đốt",
+      "điện",
+      "đông",
+      "nội",
+      "nhãn",
+      "dùng",
+      "trong",
+      "phẫu",
+      "thuật",
+      "cắt",
+      "dịch",
+      "kính"
+    ],
+    "unit": ["cái"],
+    "id": 260
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["đầu", "kim", "phaco"],
+    "unit": ["chiếc"],
+    "id": 261
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["đầu", "lạnh", "đông", "củng", "mạc"],
+    "unit": ["chiếc"],
+    "id": 262
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": [
+      "đầu",
+      "lưỡi",
+      "cắt",
+      "sử",
+      "dụng",
+      "trong",
+      "thanh",
+      "quản",
+      "hút",
+      "nạo",
+      "mũi",
+      "xoang",
+      "va",
+      "dùng",
+      "một",
+      "lần"
+    ],
+    "unit": ["cái"],
+    "id": 263
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": [
+      "dây",
+      "cáp",
+      "dẫn",
+      "sáng",
+      "đầu",
+      "laser",
+      "phát",
+      "quang",
+      "dùng",
+      "trong",
+      "phẫu",
+      "thuật",
+      "mắt"
+    ],
+    "unit": ["cái"],
+    "id": 264
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["đinh", "nước", "củng", "mạc"],
+    "unit": ["chiếc"],
+    "id": 265
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["kéo", "nội", "nhãn"],
+    "unit": ["chiếc"],
+    "id": 266
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": [
+      "kẹp",
+      "bóc",
+      "màng",
+      "ngăn",
+      "trong",
+      "dùng",
+      "phẫu",
+      "thuật",
+      "cắt",
+      "dịch",
+      "kính",
+      "võng",
+      "mạc",
+      "một",
+      "lần"
+    ],
+    "unit": ["cái"],
+    "id": 267
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["meroches", "và", "xốp", "mũi", "tai", "xoang", "các", "loại"],
+    "unit": ["cái"],
+    "id": 268
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["nam châm", "đặt", "trong", "nội", "nhãn"],
+    "unit": ["bộ"],
+    "id": 269
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": [
+      "ống",
+      "dẫn",
+      "lưu",
+      "van",
+      "dụng",
+      "cụ",
+      "thông",
+      "áp",
+      "lực",
+      "nội",
+      "nhãn",
+      "dùng",
+      "trong",
+      "phẫu",
+      "thuật",
+      "glôcôm",
+      "shunt",
+      "express",
+      "glaucoma",
+      "filtration",
+      "device"
+    ],
+    "unit": ["cái"],
+    "id": 270
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["ống", "silicon", "dầu", "đai", "tấm", "dùng", "trong", "phẫu", "thuật", "mắt"],
+    "unit": ["cái", "lọ"],
+    "id": 271
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": [
+      "pince",
+      "bóc",
+      "màng",
+      "dùng",
+      "một",
+      "lần",
+      "hoặc",
+      "nhiều",
+      "trong",
+      "phẫu",
+      "thuật",
+      "mắt"
+    ],
+    "unit": ["chiếc"],
+    "id": 272
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["vòng", "căng", "bao", "thủy", "tinh", "thể"],
+    "unit": ["cái"],
+    "id": 273
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": [
+      "dung",
+      "dịch",
+      "nhũ",
+      "tương",
+      "tích",
+      "điện",
+      "dương",
+      "bảo",
+      "vệ",
+      "bề",
+      "mặt",
+      "nhãn",
+      "cầu"
+    ],
+    "unit": ["ống", "lọ"],
+    "id": 274
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["điện", "cực", "của", "máy", "dò", "thần", "kinh"],
+    "unit": ["cái"],
+    "id": 275
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["tấm", "lót", "hút", "vac"],
+    "unit": ["tấm", "miếng", "cái"],
+    "id": 276
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["van", "phát", "âm", "thanh", "quản", "điện"],
+    "unit": ["cái"],
+    "id": 277
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": ["vật", "liệu", "độn", "dùng", "trong", "phẫu", "thuật", "múc", "nội", "nhãn"],
+    "unit": ["cái", "miếng", "cái"],
+    "id": 278
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": [
+      "bộ",
+      "dụng",
+      "cụ",
+      "phẫu",
+      "thuật",
+      "trĩ",
+      "bằng",
+      "dòng",
+      "điện",
+      "cao",
+      "tần",
+      "hcpt",
+      "kẹp",
+      "cầm",
+      "máu",
+      "đông",
+      "ngưng",
+      "dây",
+      "dẫn"
+    ],
+    "unit": ["bộ"],
+    "id": 279
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": [
+      "bộ",
+      "mở",
+      "thông",
+      "dạ",
+      "dày",
+      "qua",
+      "da",
+      "kim",
+      "chọc",
+      "ống",
+      "để",
+      "nong",
+      "dây",
+      "gắn",
+      "miếng",
+      "cái",
+      "cố",
+      "định"
+    ],
+    "unit": ["bộ"],
+    "id": 280
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": ["bộ", "van", "nong", "hậu", "môn"],
+    "unit": ["bộ"],
+    "id": 281
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": [
+      "dụng",
+      "cụ",
+      "máy",
+      "khâu",
+      "cắt",
+      "nối",
+      "tự",
+      "động",
+      "sử",
+      "trong",
+      "kỹ",
+      "thuật",
+      "longo",
+      "vòng",
+      "băng",
+      "ghim",
+      "kèm",
+      "theo"
+    ],
+    "unit": ["bộ"],
+    "id": 282
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": [
+      "dụng",
+      "cụ",
+      "máy",
+      "cắt",
+      "khâu",
+      "nối",
+      "tự",
+      "động",
+      "sử",
+      "trong",
+      "kỹ",
+      "thuật",
+      "doppler",
+      "bộ",
+      "đầu",
+      "dò",
+      "mạch",
+      "búi",
+      "trĩ"
+    ],
+    "unit": ["bộ"],
+    "id": 283
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": [
+      "lọng",
+      "cắt",
+      "polyp",
+      "ống",
+      "tiêu",
+      "hóa",
+      "thực",
+      "quản",
+      "dạ",
+      "dày",
+      "tá",
+      "tràng",
+      "ruột",
+      "non",
+      "trực",
+      "đại"
+    ],
+    "unit": ["cái"],
+    "id": 284
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": ["tấm", "nâng", "màng", "lưới", "dùng", "trong", "điều", "trị", "và", "phẫu", "thuật"],
+    "unit": ["miếng", "cái", "tấm"],
+    "id": 285
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": ["dụng", "cụ", "lấy", "giun", "sán", "dị", "vật"],
+    "unit": ["bộ", "cái"],
+    "id": 286
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": ["rọ", "bóng", "lấy", "sỏi", "dị", "vật", "polyp", "bệnh", "phẩm"],
+    "unit": ["cái"],
+    "id": 287
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": [
+      "băng",
+      "đạn",
+      "ghim",
+      "và",
+      "dụng",
+      "cụ",
+      "cắt",
+      "khâu",
+      "nối",
+      "trong",
+      "tiết",
+      "niệu"
+    ],
+    "unit": ["cái"],
+    "id": 288
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": [
+      "bộ",
+      "đặt",
+      "dẫn",
+      "lưu",
+      "thận",
+      "qua",
+      "da",
+      "kim",
+      "chọc",
+      "ống",
+      "thông",
+      "để",
+      "nong",
+      "sonde",
+      "j-j",
+      "ra",
+      "ngoài"
+    ],
+    "unit": ["bộ", "cái"],
+    "id": 289
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": ["bộ", "dụng", "cụ", "dùng", "trong", "thẩm", "phân", "phúc", "mạc"],
+    "unit": ["bộ"],
+    "id": 290
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": [
+      "bộ",
+      "nong",
+      "nhựa",
+      "kèm",
+      "amplatzer",
+      "dùng",
+      "trong",
+      "tán",
+      "sỏi",
+      "thận",
+      "qua",
+      "da"
+    ],
+    "unit": ["bộ"],
+    "id": 291
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": ["bộ", "nong", "niệu", "quản", "bằng", "nhựa"],
+    "unit": ["bộ"],
+    "id": 292
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": ["đầu", "dò", "tán", "sỏi", "niệu", "quản"],
+    "unit": ["cái"],
+    "id": 293
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": ["đầu", "tán", "sỏi", "điện", "cực"],
+    "unit": ["cái"],
+    "id": 294
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": [
+      "dây",
+      "cáp",
+      "đầu",
+      "phát",
+      "quang",
+      "laser",
+      "trong",
+      "điều",
+      "trị",
+      "u",
+      "xơ",
+      "tuyến",
+      "tiền",
+      "liệt"
+    ],
+    "unit": ["cái"],
+    "id": 295
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": [
+      "điện",
+      "cực",
+      "cắt",
+      "đốt",
+      "trong",
+      "phẫu",
+      "thuật",
+      "nội",
+      "soi",
+      "u",
+      "tuyến",
+      "tiền",
+      "liệt"
+    ],
+    "unit": ["cái"],
+    "id": 296
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": ["thông", "giỏ", "dormia", "trong", "nội", "soi", "lấy", "sỏi", "niệu", "quản"],
+    "unit": ["cái"],
+    "id": 297
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": ["áo", "bột", "nẹp"],
+    "unit": ["cái"],
+    "id": 298
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": ["áo", "chỉnh", "hình", "cột", "sống", "giày"],
+    "unit": ["chiếc"],
+    "id": 299
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": ["bộ", "dụng", "cụ", "đổ", "xi", "măng", "kim", "chọc", "bơm", "áp", "lực", "đẩy"],
+    "unit": ["bộ"],
+    "id": 300
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": [
+      "đinh",
+      "nẹp",
+      "ghim",
+      "kim",
+      "khóa",
+      "ốc",
+      "vít",
+      "lồng",
+      "dùng",
+      "trong",
+      "phẫu",
+      "thuật"
+    ],
+    "unit": ["cái", "bộ"],
+    "id": 301
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": [
+      "khung",
+      "đai",
+      "nẹp",
+      "thanh",
+      "luồn",
+      "dùng",
+      "trong",
+      "chấn",
+      "thương",
+      "chỉnh",
+      "hình",
+      "và",
+      "phục",
+      "hồi",
+      "chức",
+      "năng"
+    ],
+    "unit": ["cái", "bộ"],
+    "id": 302
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": ["thanh", "nâng", "ngực"],
+    "unit": ["cái"],
+    "id": 303
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": [
+      "xi-măng",
+      "cement",
+      "hóa",
+      "học",
+      "dùng",
+      "trong",
+      "tạo",
+      "hình",
+      "thân",
+      "đốt",
+      "sống",
+      "vòm",
+      "sọ",
+      "khớp"
+    ],
+    "unit": ["gram", "lọ"],
+    "id": 304
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": [
+      "bộ",
+      "dây",
+      "bơm",
+      "nước",
+      "đầu",
+      "đốt",
+      "điện",
+      "tay",
+      "dao",
+      "dùng",
+      "trong",
+      "phẫu",
+      "thuật"
+    ],
+    "unit": ["cái"],
+    "id": 305
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": ["vật", "liệu", "tạo", "hình", "xương", "hốc", "mắt", "tấm", "lót", "sàn", "hộp", "sọ"],
+    "unit": ["miếng", "cái", "cái"],
+    "id": 306
+  },
+  {
+    "name": "Huyết học, truyền máu",
+    "tags": ["bộ", "kít", "tách", "bạch", "cầu", "tiểu", "huyết", "tương"],
+    "unit": ["bộ"],
+    "id": 307
+  },
+  {
+    "name": "Huyết học, truyền máu",
+    "tags": ["bộ", "kít", "tách", "tế", "bào", "gốc"],
+    "unit": ["bộ"],
+    "id": 308
+  },
+  {
+    "name": "Huyết học, truyền máu",
+    "tags": ["bộ", "kít", "xác", "định", "hòa", "hợp", "tổ", "chức"],
+    "unit": ["bộ"],
+    "id": 309
+  },
+  {
+    "name": "Huyết học, truyền máu",
+    "tags": ["phin", "lọc", "bạch", "cầu"],
+    "unit": ["cái"],
+    "id": 310
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["băng", "đạn", "ghim", "khâu", "dùng", "trong", "phẫu", "thuật"],
+    "unit": ["cái"],
+    "id": 311
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["băng", "ép", "tĩnh", "mạch"],
+    "unit": ["cái"],
+    "id": 312
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["băng", "keo", "thử", "nhiệt"],
+    "unit": ["cuộn"],
+    "id": 313
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["bao", "áp", "lực", "truyền", "dịch", "nhanh"],
+    "unit": ["cái"],
+    "id": 314
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["bao", "bọc", "camera", "dùng", "trong", "thủ", "thuật", "phẫu"],
+    "unit": ["cái"],
+    "id": 315
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["bao", "bọc", "đầu", "thiết", "bị", "siêu", "âm"],
+    "unit": ["cái"],
+    "id": 316
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["bao", "đo", "huyết", "áp", "sơ", "sinh", "người", "lớn", "dùng", "một", "lần"],
+    "unit": ["chiếc"],
+    "id": 317
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": [
+      "bộ",
+      "đặt",
+      "dẫn",
+      "lưu",
+      "ổ",
+      "dịch",
+      "hoặc",
+      "áp",
+      "xe",
+      "kim",
+      "chọc",
+      "ống",
+      "nong"
+    ],
+    "unit": ["bộ"],
+    "id": 318
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": [
+      "bộ",
+      "đặt",
+      "đường",
+      "truyền",
+      "hóa",
+      "chất",
+      "kim",
+      "chọc",
+      "ống",
+      "thông",
+      "dây",
+      "dẫn"
+    ],
+    "unit": ["bộ"],
+    "id": 319
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["bộ", "đầu", "dò", "dùng", "một", "lần", "nhiều"],
+    "unit": ["bộ"],
+    "id": 320
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["bộ", "đo", "áp", "lực", "nội", "sọ"],
+    "unit": ["bộ"],
+    "id": 321
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["bộ", "đo", "dung", "lượng", "khí", "động", "mạch"],
+    "unit": ["bộ"],
+    "id": 322
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": [
+      "bộ",
+      "đốt",
+      "nhiệt",
+      "điều",
+      "trị",
+      "khối",
+      "u",
+      "kim",
+      "dây",
+      "nối",
+      "điện",
+      "cực",
+      "dán"
+    ],
+    "unit": ["bộ"],
+    "id": 323
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["bộ", "mở", "khí", "quản", "sử", "dụng", "một", "lần"],
+    "unit": ["bộ"],
+    "id": 324
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["buồng", "tiêm", "truyền", "hóa", "chất"],
+    "unit": ["bộ"],
+    "id": 325
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["đầu", "đo", "spo2", "sensor", "dùng", "một", "lần"],
+    "unit": ["cái"],
+    "id": 326
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["dây", "dẫn", "ánh", "sáng", "lạnh", "dùng", "trong", "thủ", "thuật", "phẫu"],
+    "unit": ["chiếc"],
+    "id": 327
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["đầu", "camera", "trong", "thủ", "thuật", "phẫu"],
+    "unit": ["bộ"],
+    "id": 328
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["đầu", "côn"],
+    "unit": ["cái"],
+    "id": 329
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["đầu", "dây", "tán", "sỏi", "đường", "mật", "nội", "soi"],
+    "unit": ["cái"],
+    "id": 330
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": [
+      "đầu",
+      "đốt",
+      "dao",
+      "hàn",
+      "mạch",
+      "dùng",
+      "trong",
+      "thủ",
+      "thuật",
+      "phẫu",
+      "các",
+      "loại"
+    ],
+    "unit": ["chiếc"],
+    "id": 331
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": [
+      "đầu",
+      "kim",
+      "rửa",
+      "hút",
+      "dùng",
+      "một",
+      "lần",
+      "sử",
+      "dụng",
+      "trong",
+      "phẫu",
+      "thuật",
+      "chuyên",
+      "khoa"
+    ],
+    "unit": ["cái"],
+    "id": 332
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["dây", "cáp", "đầu", "đo", "huyết", "áp", "xâm", "nhập", "dome"],
+    "unit": ["bộ"],
+    "id": 333
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["đè", "lưỡi", "gỗ", "inox", "sắt"],
+    "unit": ["cái"],
+    "id": 334
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["miếng", "cái", "dán", "điện", "cực", "đệm"],
+    "unit": ["cái", "miếng", "cái", "chiếc"],
+    "id": 335
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["kìm", "khóa", "kẹp", "clip", "clamp"],
+    "unit": ["cái"],
+    "id": 336
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["máng", "đặt", "ống", "thông"],
+    "unit": ["cái"],
+    "id": 337
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["mặt", "nạ", "mask"],
+    "unit": ["cái", "chiếc"],
+    "id": 338
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["mũi", "khoan", "dùng", "trong", "thủ", "thuật", "phẫu", "tay", "cắt"],
+    "unit": ["cái", "bộ"],
+    "id": 339
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["phin", "lọc", "khí"],
+    "unit": ["cái"],
+    "id": 340
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["phin", "lọc", "vi", "khuẩn"],
+    "unit": ["cái"],
+    "id": 341
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["stapler", "dùng", "một", "lần", "trong", "phẫu", "thuật"],
+    "unit": ["bộ"],
+    "id": 342
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["tấm", "giữ", "nhiệt"],
+    "unit": ["cái"],
+    "id": 343
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["bộ", "gây", "tê", "ngoài", "màng", "cứng"],
+    "unit": ["bộ"],
+    "id": 344
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["dây", "dẫn", "tín", "hiệu", "dùng", "trong", "đốt", "sóng", "cao", "tần"],
+    "unit": ["bộ"],
+    "id": 345
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["dịch", "lọc", "máu", "liên", "tục"],
+    "unit": ["túi"],
+    "id": 346
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["dung", "dịch", "bảo", "quản", "mô", "tạng", "giác", "mạc", "dịch", "liệt", "tim"],
+    "unit": ["ml", "lít"],
+    "id": 347
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["dụng", "cụ", "cấy", "hạt", "phóng", "xạ"],
+    "unit": ["bộ"],
+    "id": 348
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": [
+      "dụng",
+      "cụ",
+      "dẫn",
+      "đường",
+      "dùng",
+      "trong",
+      "phẫu",
+      "thuật",
+      "vi",
+      "u",
+      "não",
+      "thất",
+      "và",
+      "quang",
+      "động",
+      "học",
+      "ptd",
+      "điều",
+      "trị",
+      "ác",
+      "tính"
+    ],
+    "unit": ["bộ"],
+    "id": 349
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": [
+      "dụng",
+      "cụ",
+      "dùng",
+      "trong",
+      "xạ",
+      "trị",
+      "áp",
+      "sát",
+      "cấy",
+      "kim",
+      "cho",
+      "cổ",
+      "tử",
+      "cung",
+      "âm",
+      "đạo",
+      "trực",
+      "tràng",
+      "vú",
+      "các",
+      "xoang",
+      "phần",
+      "mềm",
+      "da",
+      "vòm",
+      "mũi",
+      "họng",
+      "thực",
+      "quản",
+      "khí",
+      "phế",
+      "phổi",
+      "hạch"
+    ],
+    "unit": ["bộ"],
+    "id": 350
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": [
+      "hạt",
+      "vi",
+      "cầu",
+      "resin",
+      "gắn",
+      "đồng",
+      "vị",
+      "phóng",
+      "xạ",
+      "y-90",
+      "kèm",
+      "theo",
+      "hộp",
+      "bảo",
+      "vệ",
+      "bình",
+      "chia",
+      "liều",
+      "ống",
+      "đựng",
+      "chuẩn",
+      "dây",
+      "dẫn",
+      "kim-bơm",
+      "tiêm",
+      "chuyên",
+      "dụng"
+    ],
+    "unit": ["bộ"],
+    "id": 351
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": ["troca", "nhựa", "dùng", "trong", "phẫu", "thuật", "nội", "soi"],
+    "unit": ["bộ", "cái"],
+    "id": 352
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": ["bóng", "đèn", "hồng", "ngoại"],
+    "unit": ["chiếc"],
+    "id": 353
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": ["bóng", "đèn", "tử", "ngoại"],
+    "unit": ["chiếc"],
+    "id": 354
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": ["bóng", "phát", "tia", "máy", "xạ", "trị", "gia", "tốc"],
+    "unit": ["cái"],
+    "id": 355
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": ["bút", "phóng", "xạ", "đánh", "dấu", "chụp", "spect", "pen", "point", "marker"],
+    "unit": ["cái"],
+    "id": 356
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": ["phantom"],
+    "unit": ["bộ"],
+    "id": 357
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": ["tấm", "cố", "định", "phần", "thân", "dùng", "trong", "xạ", "trị", "gia", "tốc"],
+    "unit": ["cái"],
+    "id": 358
+  }
+]

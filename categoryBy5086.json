@@ -1,0 +1,76 @@
+[
+  { "keyword": "bông", "name": "Bông" },
+  {
+    "keyword": "Dung dịch sát khuẩn rửa",
+    "name": "Dung dịch sát khuẩn, rửa vết thương"
+  },
+  { "keyword": "băng", "name": "Băng" },
+  { "keyword": "băng dính", "name": "Băng dính" },
+  {
+    "keyword": "gạc băng",
+    "name": "Gạc, băng gạc y tế điều trị các vết thương"
+  },
+  {
+    "keyword": "vật liệu cầm máu",
+    "name": "Vật liệu cầm máu, điều trị các vết thương"
+  },
+  { "keyword": "bơm tiêm", "name": "Bơm tiêm" },
+  { "keyword": "kim tiêm", "name": "Kim tiêm" },
+  {
+    "keyword": "kim chọc dò sinh thiết",
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác"
+  },
+  { "keyword": "kim châm cứu", "name": "Kim châm cứu" },
+  { "keyword": "dây truyền dây dẫn", "name": "Dây truyền, dây dẫn" },
+  { "keyword": "găng tay", "name": "Găng tay" },
+  {
+    "keyword": "túi lọ bao gói",
+    "name": "Túi, lọ và vật tư bao gói khác"
+  },
+  { "keyword": "ống thông", "name": "Ống thông" },
+  { "keyword": "ống dẫn lưu hút", "name": "Ống dẫn lưu, ống hút" },
+  {
+    "keyword": "ống dây chạc nối",
+    "name": "Ống nối, dây nối, chạc nối"
+  },
+  { "keyword": "catheter", "name": "Catheter" },
+  { "keyword": "kim khâu", "name": "Kim khâu" },
+  { "keyword": "chỉ khâu", "name": "Chỉ khâu" },
+  { "keyword": "dao phẫu thuật", "name": "Dao phẫu thuật" },
+  {
+    "keyword": "van mạch máu nhân tạo",
+    "name": "Van nhân tạo, mạch máu nhân tạo"
+  },
+  { "keyword": "giá đỡ stent", "name": "Giá đỡ (stent)" },
+  { "keyword": "Xương sụn khớp gân nhân tạo", "name": "Xương, sụn, khớp, gân nhân tạo" },
+  { "keyword": "Thủy tinh thể nhân tạo", "name": "Thủy tinh thể nhân tạo" },
+  { "keyword": "Miếng vá, mảnh ghép", "name": "Miếng vá, mảnh ghép" },
+  {
+    "keyword": "cấy ghép",
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác"
+  },
+  {
+    "keyword": "tim mạch x-quang can thiệp",
+    "name": "Tim mạch và X-quang can thiệp"
+  },
+  { "keyword": "lọc máu màng bụng", "name": "Lọc máu, lọc màng bụng" },
+  {
+    "keyword": "mắt tai mũi họng răng hàm mặt",
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt"
+  },
+  { "keyword": "tiêu hóa", "name": "Tiêu hóa" },
+  { "keyword": "tiết niệu", "name": "Tiết niệu" },
+  {
+    "keyword": "chấn thương chỉnh hình",
+    "name": "Chấn thương, chỉnh hình"
+  },
+  { "keyword": "huyết học truyền máu", "name": "Huyết học, truyền máu" },
+  {
+    "keyword": "vật tư y tế chẩn đoán",
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác"
+  },
+  {
+    "keyword": "vật tư y tế thay thế chẩn đoán",
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị"
+  }
+]

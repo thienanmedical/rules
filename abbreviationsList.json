@@ -1,0 +1,178 @@
+[
+  {
+    "abbKey": "bv",
+    "standFor": "Bệnh viện"
+  },
+  {
+    "abbKey": "đkkv",
+    "standFor": "đa khoa khu vực"
+  },
+  {
+    "abbKey": "cptb",
+    "standFor": "cổ phần thiết bị"
+  },
+  {
+    "abbKey": "đk",
+    "standFor": "đa khoa"
+  },
+  {
+    "abbKey": "hc",
+    "standFor": "hóa chất"
+  },
+  {
+    "abbKey": "đh",
+    "standFor": "đại học"
+  },
+  {
+    "abbKey": "kv",
+    "standFor": "khu vực"
+  },
+  {
+    "abbKey": "ttyt",
+    "standFor": "trung tâm y tế"
+  },
+  {
+    "abbKey": "ct",
+    "standFor": "công ty"
+  },
+  {
+    "abbKey": "cty",
+    "standFor": "công ty"
+  },
+  {
+    "abbKey": "c.ty",
+    "standFor": "công ty"
+  },
+  {
+    "abbKey": "cp",
+    "standFor": "cổ phần"
+  },
+  {
+    "abbKey": "kst",
+    "standFor": "kí sinh trùng"
+  },
+  {
+    "abbKey": "kst-ct",
+    "standFor": "kí sinh trùng - côn trùng"
+  },
+  {
+    "abbKey": "ttksbt",
+    "standFor": "trung tâm kiểm soát bệnh tật"
+  },
+  {
+    "abbKey": "ttks",
+    "standFor": "trung tâm kiểm soát"
+  },
+  {
+    "abbKey": "tyt",
+    "standFor": "trạm y tế"
+  },
+  {
+    "abbKey": "tnhh",
+    "standFor": "trách nhiệm hữu hạn"
+  },
+  {
+    "abbKey": "ttbyt",
+    "standFor": "trang thiết bị y tế"
+  },
+  {
+    "abbKey": "tbyt",
+    "standFor": "thiết bị y tế"
+  },
+  {
+    "abbKey": "tm",
+    "standFor": "thương mại"
+  },
+  {
+    "abbKey": "tb",
+    "standFor": "thiết bị"
+  },
+  {
+    "abbKey": "dp",
+    "standFor": "dược phẩm"
+  },
+  {
+    "abbKey": "khkt",
+    "standFor": "khoa học kỹ thuật"
+  },
+  {
+    "abbKey": "ld",
+    "standFor": "liên doanh"
+  },
+  {
+    "abbKey": "mtv",
+    "standFor": "một thành viên"
+  },
+  {
+    "abbKey": "dvkt",
+    "standFor": "dịch vụ kỹ thuật"
+  },
+  {
+    "abbKey": "kt",
+    "standFor": "kỹ thuật"
+  },
+  {
+    "abbKey": "vtyt",
+    "standFor": "vật tư y tế"
+  },
+  {
+    "abbKey": "xnk",
+    "standFor": "xuất nhập khẩu"
+  },
+  {
+    "abbKey": "vpp",
+    "standFor": "văn phòng phẩm"
+  },
+  {
+    "abbKey": "hkd",
+    "standFor": "hộ kinh doanh"
+  },
+  {
+    "abbKey": "kd",
+    "standFor": "kinh doanh"
+  },
+  {
+    "abbKey": "sx",
+    "standFor": "sản xuất"
+  },
+  {
+    "abbKey": "cplhđt",
+    "standFor": "cổ phần liên hiệp đầu tư"
+  },
+  {
+    "abbKey": "lh",
+    "standFor": "liên hiệp"
+  },
+  {
+    "abbKey": "đt",
+    "standFor": "đầu tư"
+  },
+  {
+    "abbKey": "xd",
+    "standFor": "xây dựng"
+  },
+  {
+    "abbKey": "yk",
+    "standFor": "y khoa"
+  },
+  {
+    "abbKey": "yhct",
+    "standFor": "y học cổ truyền"
+  },
+  {
+    "abbKey": "yh",
+    "standFor": "y học"
+  },
+  {
+    "abbKey": "tw",
+    "standFor": "trung ương"
+  },
+  {
+    "abbKey": "dv",
+    "standFor": "dịch vụ"
+  },
+  {
+    "abbKey": "yt",
+    "standFor": "y tế"
+  }
+]

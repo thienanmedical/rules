@@ -1,0 +1,92 @@
+[
+  {
+    "keyword": [
+      "thiếtbị",
+      "máy",
+      "vậttư",
+      "dụngcụ",
+      "bơm",
+      "bông",
+      "băng",
+      "gạc",
+      "kim",
+      "dây",
+      "túi",
+      "Catheter",
+      "chỉ",
+      "dao",
+      "van",
+      "giáđỡ",
+      "stent",
+      "đầu",
+      "xương",
+      "sụn",
+      "khớp",
+      "gân",
+      "thuỷtinh",
+      "miếng",
+      "mảnh",
+      "màng",
+      "bao",
+      "que",
+      "ống",
+      "vậtliệu",
+      "nong",
+      "cỡ",
+      "bộ",
+      "phim",
+      "bóng",
+      "mũi",
+      "máy",
+      "quả"
+    ],
+    "unit": ["cái", "bộ", "quả", "miếng", "cuộn", "sợi"],
+    "name": "TTBYT"
+  },
+  {
+    "keyword": ["xétnghiệm", "bộtest", "đĩa", "khay", "kit", "kít", "test"],
+    "unit": [],
+    "name": "Vật tư XN"
+  },
+  {
+    "keyword": [
+      "hoáchất",
+      "chấtthử",
+      "chấtchuẩn",
+      "chấtkháng",
+      "chấthiệuchuẩn",
+      "chấtkiểm",
+      "dungdịch",
+      "anti",
+      "địnhlượng",
+      "đốichiếu",
+      "đốichứng",
+      "thuốcthử",
+      "môitrường",
+      "bột",
+      "chất",
+      "sinhphẩm",
+      "acid",
+      "axit",
+      "khí",
+      "dịch",
+      "dd",
+      "khángthể",
+      "khángnguyên"
+    ],
+    "unit": ["lít", "lit", "l", "l/", "ml"],
+    "name": "Hoá chất"
+  },
+
+  {
+    "keyword": ["thuốc", "hoạtchất", "vắcxin", "vaccine"],
+    "unit": ["viên", "liều", "mg", "thuốc"],
+    "name": "Thuốc"
+  },
+
+  {
+    "keyword": ["cungcấp", "lắpđặt", "bảotrì", "bảodưỡng", "sửachữa"],
+    "unit": [],
+    "name": "Khác"
+  }
+]

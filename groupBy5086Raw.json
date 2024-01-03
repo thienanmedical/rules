@@ -1,0 +1,2156 @@
+[
+  {
+    "name": "Bông",
+    "tags": "Bông (gòn), bông tẩm dung dịch các loại, các cỡ",
+    "unit": "Gram, kg, gói, cuộn",
+    "id": 0
+  },
+  {
+    "name": "Bông",
+    "tags": "Bông, tăm bông vô trùng các loại, các cỡ",
+    "unit": "Que,cái",
+    "id": 1
+  },
+  {
+    "name": "Dung dịch sát khuẩn, rửa vết thương",
+    "tags": "Dung dịch rửa tay sát khuẩn dùng trong khám bệnh, thực hiện phẫu thuật, thủ thuật, xét nghiệm các loại",
+    "unit": "Ml, lít",
+    "id": 2
+  },
+  {
+    "name": "Dung dịch sát khuẩn, rửa vết thương",
+    "tags": "Dung dịch rửa vết thương các loại",
+    "unit": "Ml, lít, chai",
+    "id": 3
+  },
+  {
+    "name": "Dung dịch sát khuẩn, rửa vết thương",
+    "tags": "Dung dịch sát khuẩn, khử trùng dụng cụ các loại",
+    "unit": "Ml, lít",
+    "id": 4
+  },
+  {
+    "name": "Dung dịch sát khuẩn, rửa vết thương",
+    "tags": "Dung dịch sát khuẩn, khử trùng trong phòng xét nghiệm, buồng mổ, buồng bệnh các loại",
+    "unit": "Ml, lít",
+    "id": 5
+  },
+  {
+    "name": "Dung dịch sát khuẩn, rửa vết thương",
+    "tags": "Dung dịch tẩy rửa dụng cụ các loại",
+    "unit": "Ml, lít",
+    "id": 6
+  },
+  {
+    "name": "Băng",
+    "tags": "Băng bột bó, vải lót bó bột, tất lót bó bột các loại, các cỡ",
+    "unit": "Cuộn",
+    "id": 7
+  },
+  {
+    "name": "Băng",
+    "tags": "Băng chun, băng đàn hồi các loại, các cỡ",
+    "unit": "Cuộn, miếng",
+    "id": 8
+  },
+  {
+    "name": "Băng",
+    "tags": "Băng cố định khớp trong điều trị chấn thương chỉnh hình các loại, các cỡ",
+    "unit": "Cuộn",
+    "id": 9
+  },
+  {
+    "name": "Băng",
+    "tags": "Băng cuộn, băng cá nhân các loại, các cỡ",
+    "unit": "Cuộn, miếng",
+    "id": 10
+  },
+  {
+    "name": "Băng",
+    "tags": "Băng dùng trong phẫu thuật, băng bó vết thương, vết bỏng, vết loét các loại, các cỡ",
+    "unit": "Cuộn, miếng",
+    "id": 11
+  },
+  {
+    "name": "Băng",
+    "tags": "Băng rốn các loại, các cỡ",
+    "unit": "Cuộn, miếng",
+    "id": 12
+  },
+  {
+    "name": "Băng",
+    "tags": "Băng vô trùng các loại, các cỡ",
+    "unit": "Cuộn, miếng",
+    "id": 13
+  },
+  {
+    "name": "Băng dính",
+    "tags": "Băng dán mi các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 14
+  },
+  {
+    "name": "Băng dính",
+    "tags": "Băng dính các loại, các cỡ",
+    "unit": "Cuộn, miếng",
+    "id": 15
+  },
+  {
+    "name": "Gạc, băng gạc điều trị các vết thương",
+    "tags": "Gạc alginate các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 16
+  },
+  {
+    "name": "Gạc, băng gạc điều trị các vết thương",
+    "tags": "Gạc các loại, các cỡ",
+    "unit": "Cuộn, gói, miếng",
+    "id": 17
+  },
+  {
+    "name": "Gạc, băng gạc điều trị các vết thương",
+    "tags": "Gạc gắn với băng dính vô khuẩn dùng để băng các vết thương, vết mổ, vết khâu các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 18
+  },
+  {
+    "name": "Gạc, băng gạc điều trị các vết thương",
+    "tags": "Gạc hydrocolloid các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 19
+  },
+  {
+    "name": "Gạc, băng gạc điều trị các vết thương",
+    "tags": "Gạc hydrogel các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 20
+  },
+  {
+    "name": "Gạc, băng gạc điều trị các vết thương",
+    "tags": "Gạc rốn các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 21
+  },
+  {
+    "name": "Gạc, băng gạc điều trị các vết thương",
+    "tags": "Gạc than hoạt tính (thấm hút, không thấm hút) các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 22
+  },
+  {
+    "name": "Gạc, băng gạc điều trị các vết thương",
+    "tags": "Gạc xốp, miếng xốp (foam) các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 23
+  },
+  {
+    "name": "Gạc, băng gạc điều trị các vết thương",
+    "tags": "Gạc, gạc lưới có tẩm kháng sinh hoặc chất sát khuẩn các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 24
+  },
+  {
+    "name": "Gạc, băng gạc điều trị các vết thương",
+    "tags": "Miếng dán sát khuẩn các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 25
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": "Dung dịch xịt dùng ngoài điều trị phòng ngừa loét do tỳ đè các loại",
+    "unit": "Chai, lọ",
+    "id": 26
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": "Gạc cầm máu các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 27
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": "Keo (sinh học) dán da, dán mô dùng trong phẫu thuật các loại",
+    "unit": "Lọ, miếng, kit",
+    "id": 28
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": "Miếng cầm máu mũi các loại, các cỡ",
+    "unit": "Miếng, thỏi",
+    "id": 29
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": "Vật liệu cầm máu các loại (sáp, bone, surgicel, merocel, spongostan, gelitacel, floseal heamostatic, liotit)",
+    "unit": "Miếng, thỏi, kit",
+    "id": 30
+  },
+  {
+    "name": "Vật liệu cầm máu, điều trị các vết thương",
+    "tags": "Vật liệu sử dụng trong điều trị tổn thương bằng phương pháp hút áp lực âm (bao gồm: miếng xốp, đầu nối, dây dẫn dịch, băng dán cố định)",
+    "unit": "Bộ",
+    "id": 31
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": "Bơm sử dụng để bơm thức ăn cho người bệnh các loại, các cỡ",
+    "unit": "Cái",
+    "id": 32
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": "Bơm tiêm (syringe) dùng một lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 33
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": "Bơm tiêm truyền áp lực các loại, các cỡ",
+    "unit": "Cái",
+    "id": 34
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": "Bơm tiêm dùng cho máy tiêm điện tự động các loại, các cỡ",
+    "unit": "Cái",
+    "id": 35
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": "Bơm tiêm dùng nhiều lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 36
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": "Bơm tiêm insulin các loại, các cỡ",
+    "unit": "Cái",
+    "id": 37
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": "Bơm tiêm liền kim dùng một lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 38
+  },
+  {
+    "name": "Bơm tiêm",
+    "tags": "Bơm tiêm máy bơm các loại, các cỡ",
+    "unit": "Cái",
+    "id": 39
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": "Bút chích máu các loại, các cỡ",
+    "unit": "Cái",
+    "id": 40
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": "Kim cánh bướm các loại, các cỡ",
+    "unit": "Cái",
+    "id": 41
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": "Kim chích máu các loại, các cỡ",
+    "unit": "Cái",
+    "id": 42
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": "Kim dùng cho buồng tiêm truyền cấy dưới da các loại, các cỡ",
+    "unit": "Cái",
+    "id": 43
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": "Kim lẩy da các loại, các cỡ",
+    "unit": "Cái",
+    "id": 44
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": "Kim lấy máu, lấy thuốc các loại, các cỡ",
+    "unit": "Cái",
+    "id": 45
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": "Kim luồn mạch máu các loại, các cỡ",
+    "unit": "Cái",
+    "id": 46
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": "Kim tiêm dùng một lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 47
+  },
+  {
+    "name": "Kim tiêm",
+    "tags": "Nút chặn đuôi kim luồn (có hoặc không có heparin) các loại, các cỡ",
+    "unit": "Cái, chiếc",
+    "id": 48
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim chọc, kim chọc dò các loại, các cỡ",
+    "unit": "Cái",
+    "id": 49
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim chọc hút tế bào qua nội soi các loại, các cỡ",
+    "unit": "Cái",
+    "id": 50
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim chọc hút tủy xương các loại, các cỡ",
+    "unit": "Cái",
+    "id": 51
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim dẫn lưu các loại, các cỡ",
+    "unit": "Cái",
+    "id": 52
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim đo áp lực tĩnh mạch trung tâm (CPV) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 53
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim dùng trong thiết bị dẫn sóng các loại, các cỡ",
+    "unit": "Cái",
+    "id": 54
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim gây tê, gây mê các loại, các cỡ",
+    "unit": "Cái",
+    "id": 55
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim lọc thận nhân tạo các loại, các cỡ",
+    "unit": "Cái",
+    "id": 56
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim sinh thiết dùng một lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 57
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim sinh thiết dùng nhiều lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 58
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim sinh thiết tủy xương dùng nhiều lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 59
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim định vị các loại, các cỡ",
+    "unit": "Cái",
+    "id": 60
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim đốt sóng cao tần, đầu đốt sóng cao tần, ống thông đốt sóng cao tần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 61
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim laser nội mạch, đầu đốt, dây đốt, ống thông laser nội mạch các loại, các cỡ",
+    "unit": "Cái",
+    "id": 62
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim chọc và sinh thiết tạng các loại, các cỡ",
+    "unit": "Cái",
+    "id": 63
+  },
+  {
+    "name": "Kim chọc dò, sinh thiết và các loại kim khác",
+    "tags": "Kim chọc và sinh thiết xương các loại, các cỡ",
+    "unit": "Cái",
+    "id": 64
+  },
+  {
+    "name": "Kim châm cứu",
+    "tags": "Kim châm cứu các loại, các cỡ",
+    "unit": "Bộ, cái",
+    "id": 65
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": "Dây dẫn, dây truyền dịch các loại, các cỡ (bao gồm cả chạc nối, bộ phân phối, cổng chia, ống nối đi kèm)",
+    "unit": "Bộ",
+    "id": 66
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": "Dây dẫn, dây truyền khí các loại, các cỡ (bao gồm cả chạc nối, ống nối đi kèm)",
+    "unit": "Bộ",
+    "id": 67
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": "Dây dẫn, dây truyền máu, truyền chế phẩm máu các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 68
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": "Dây nối đi kèm dây truyền các loại, các cỡ",
+    "unit": "Cái",
+    "id": 69
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": "Dây truyền dịch dùng cho máy truyền tự động các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 70
+  },
+  {
+    "name": "Dây truyền, dây dẫn",
+    "tags": "Khóa đi kèm dây dẫn, đi kèm hoặc không đi kèm dây truyền được dùng trong truyền dịch, truyền máu, truyền khí các loại, các cỡ",
+    "unit": "Cái",
+    "id": 71
+  },
+  {
+    "name": "Găng tay",
+    "tags": "Găng cao su các loại, các cỡ",
+    "unit": "Đôi",
+    "id": 72
+  },
+  {
+    "name": "Găng tay",
+    "tags": "Găng tay chăm sóc, điều trị người bệnh các loại, các cỡ",
+    "unit": "Đôi",
+    "id": 73
+  },
+  {
+    "name": "Găng tay",
+    "tags": "Găng tay sử dụng trong thăm khám các loại, các cỡ",
+    "unit": "Đôi",
+    "id": 74
+  },
+  {
+    "name": "Găng tay",
+    "tags": "Găng tay vô trùng dùng trong thăm dò chức năng, xét nghiệm các loại, các cỡ",
+    "unit": "Đôi",
+    "id": 75
+  },
+  {
+    "name": "Găng tay",
+    "tags": "Găng tay vô trùng dùng trong thủ thuật, phẫu thuật các loại, các cỡ",
+    "unit": "Đôi",
+    "id": 76
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": "Ống, dây cho ăn các loại, các cỡ",
+    "unit": "Cái, bộ",
+    "id": 77
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": "Túi đo khối lượng máu sau sinh đẻ các loại, các cỡ",
+    "unit": "Cái",
+    "id": 78
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": "Túi, bao gói tiệt trùng các loại, các cỡ",
+    "unit": "Cái",
+    "id": 79
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": "Túi, lọ đựng thức ăn, đựng dung dịch nuôi dưỡng các loại, các cỡ",
+    "unit": "Cái",
+    "id": 80
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": "Túi, lọ đựng thức ăn, dung dịch nuôi dưỡng tĩnh mạch theo máy các loại, các cỡ",
+    "unit": "Cái",
+    "id": 81
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": "Túi, lọ, cát-sét (cassette) đựng hoặc đo lượng chất thải tiết, dịch xả các loại, các cỡ",
+    "unit": "Cái",
+    "id": 82
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": "Túi, lọ, hộp đựng bệnh phẩm các loại, các cỡ",
+    "unit": "Cái",
+    "id": 83
+  },
+  {
+    "name": "Túi, lọ và vật tư bao gói khác",
+    "tags": "Túi hậu môn nhân tạo",
+    "unit": "Cái",
+    "id": 84
+  },
+  {
+    "name": "Ống thông",
+    "tags": "Ca-nuyn (cannula) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 85
+  },
+  {
+    "name": "Ống thông",
+    "tags": "Ống ca-nuyn (cannula) mở khí quản các loại, các cỡ",
+    "unit": "Cái",
+    "id": 86
+  },
+  {
+    "name": "Ống thông",
+    "tags": "Ống nội khí quản sử dụng một lần các loại, các cỡ (bao gồm ống nội khí quản canlene)",
+    "unit": "Bộ",
+    "id": 87
+  },
+  {
+    "name": "Ống thông",
+    "tags": "Ống nội khí quản sử dụng nhiều lần các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 88
+  },
+  {
+    "name": "Ống thông",
+    "tags": "Ống nong, bộ nong các loại, các cỡ",
+    "unit": "Cái, bộ",
+    "id": 89
+  },
+  {
+    "name": "Ống thông",
+    "tags": "Ống thông khí hòm nhĩ các loại, các cỡ",
+    "unit": "Cái",
+    "id": 90
+  },
+  {
+    "name": "Ống thông",
+    "tags": "Ống (sonde) thở ô-xy 02 gọng các loại, các cỡ",
+    "unit": "Cái",
+    "id": 91
+  },
+  {
+    "name": "Ống thông",
+    "tags": "Thông (sonde) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 92
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": "Bộ rửa dạ dày sử dụng một lần các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 93
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": "Ống (sonde) rửa dạ dày các loại, các cỡ",
+    "unit": "Cái",
+    "id": 94
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": "Ống dẫn lưu (drain) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 95
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": "Ống dẫn lưu Kehr các loại, các cỡ",
+    "unit": "Cái",
+    "id": 96
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": "Ống hút thai các loại, các cỡ",
+    "unit": "Cái",
+    "id": 97
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": "Ống, dây hút đờm, dịch, khí, mỡ các loại, các cỡ",
+    "unit": "Cái, bộ",
+    "id": 98
+  },
+  {
+    "name": "Ống dẫn lưu, ống hút",
+    "tags": "Ống, dây rửa hút dùng cho thiết bị thủ thuật, phẫu thuật các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 99
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Bộ dây dẫn dịch vào khớp các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 100
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Bộ dây lọc máu các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 101
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Bộ dây thở ô-xy dùng một lần các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 102
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Bộ phận chuyển tiếp (transfer set) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 103
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Chạc 2 dây có đầu nối an toàn sinh học các loại, các cỡ",
+    "unit": "Cái, bộ",
+    "id": 104
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Đầu nối, ống nối titanium các loại, các cỡ",
+    "unit": "Cái",
+    "id": 105
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Dây chạy máy tim phổi nhân tạo các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 106
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Ống Gone (thủy tinh) đặt lệ quản",
+    "unit": "Bộ",
+    "id": 107
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Ống nối, dây nối, chạc nối (adapter) dùng trong thiết bị các loại, các cỡ",
+    "unit": "Cái",
+    "id": 108
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Ống nối, dây nối, chạc nối (adapter), bộ phân phối (manifold) và cổng chia (stopcock) dùng trong thủ thuật, phẫu thuật, chăm sóc người bệnh các loại, các cỡ",
+    "unit": "Cái, bộ",
+    "id": 109
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Bộ dây thẩm phân phúc mạc (cassette) các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 110
+  },
+  {
+    "name": "Ống nối, dây nối, chạc nối",
+    "tags": "Bộ dây máy thở cao tần các loại, các cỡ (bao gồm: bộ dây thở, van chụp, màng rung)",
+    "unit": "Bộ",
+    "id": 111
+  },
+  {
+    "name": "Catheter",
+    "tags": "Ống thông (catheter) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 112
+  },
+  {
+    "name": "Catheter",
+    "tags": "Ống thông dẫn đường (guiding catheter) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 113
+  },
+  {
+    "name": "Catheter",
+    "tags": "Vi ống thông (micro-catheter) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 114
+  },
+  {
+    "name": "Catheter",
+    "tags": "Nắp đóng bộ chuyển tiếp của catheter chuyên dụng trong lọc màng bụng (minicap) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 115
+  },
+  {
+    "name": "Kim khâu",
+    "tags": "Kim khâu các loại, các cỡ",
+    "unit": "Cái",
+    "id": 116
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": "Chỉ cố định thủy tinh thể nhân tạo các loại, các cỡ",
+    "unit": "Sợi, cuộn, tép",
+    "id": 117
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": "Chỉ khâu đặc biệt các loại, các cỡ",
+    "unit": "Sợi, cuộn, tép",
+    "id": 118
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": "Chỉ khâu không tiêu các loại, các cỡ",
+    "unit": "Sợi, cuộn, tép",
+    "id": 119
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": "Chỉ khâu liền kim các loại, các cỡ",
+    "unit": "Sợi, tép",
+    "id": 120
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": "Chỉ khâu tiêu chậm các loại, các cỡ",
+    "unit": "Sợi, cuộn, tép",
+    "id": 121
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": "Chỉ khâu tiêu nhanh các loại, các cỡ",
+    "unit": "Sợi, cuộn, tép",
+    "id": 122
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": "Chỉ thép, dây thép dùng trong phẫu thuật",
+    "unit": "Sợi, cuộn, tép",
+    "id": 123
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": "Vật liệu thay thế chỉ khâu các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 124
+  },
+  {
+    "name": "Chỉ khâu",
+    "tags": "Chỉ khâu tiêu trung bình các loại, các cỡ",
+    "unit": "Sợi, cuộn, tép",
+    "id": 125
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": "Bản cực trung tính cho dao mổ điện sử dụng một lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 126
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": "Các loại dao, lưỡi dao sử dụng trong phẫu thuật các loại, các cỡ",
+    "unit": "Cái",
+    "id": 127
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": "Dao mổ liền cán sử dụng một lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 128
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": "Đầu đốt (đơn cực, lưỡng cực, kết hợp đơn cực lưỡng cực), lưỡi dao mổ điện, dao mổ laser, dao mổ siêu âm, dao mổ plasma, dao radio, dao cắt gan siêu âm, dao cắt hàn mạch, hàn mô các loại, các cỡ (bao gồm cả tay dao và dây dao)",
+    "unit": "Cái",
+    "id": 129
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": "Dây cưa sử dụng trong thủ thuật, phẫu thuật các loại, các cỡ",
+    "unit": "Sợi, dây",
+    "id": 130
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": "Lưỡi bào, lưỡi cắt, dao cắt sụn, lưỡi đốt dùng trong phẫu thuật các loại, các cỡ (bao gồm cả tay dao)",
+    "unit": "Cái, bộ",
+    "id": 131
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": "Lưỡi dao cắt mô, lưỡi nghiền mô các loại, các cỡ",
+    "unit": "Cái",
+    "id": 132
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": "Lưỡi dao mổ sử dụng một lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 133
+  },
+  {
+    "name": "Dao phẫu thuật",
+    "tags": "Lưỡi cắt, đốt bằng sóng radio các loại, các cỡ",
+    "unit": "Cái",
+    "id": 134
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": "Mạch máu nhân tạo các loại, các cỡ",
+    "unit": "Cái, đoạn",
+    "id": 135
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": "Van dẫn lưu nhân tạo các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 136
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": "Van tim nhân tạo, van động mạch nhân tạo các loại, các cỡ",
+    "unit": "Cái",
+    "id": 137
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": "Vòng van tim nhân tạo",
+    "unit": "Cái",
+    "id": 138
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": "Van tim nhân tạo kèm giá đỡ sinh học các loại, các cỡ",
+    "unit": "Cái",
+    "id": 139
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": "Ống van động mạch chủ cơ học hoặc sinh học các loại, các cỡ",
+    "unit": "Cái",
+    "id": 140
+  },
+  {
+    "name": "Van nhân tạo, mạch máu nhân tạo",
+    "tags": "Ống van động mạch phổi sinh học các loại, các cỡ",
+    "unit": "Cái",
+    "id": 141
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": "Stent động mạch vành loại thường (không phủ thuốc) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 142
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": "Stent động mạch vành phủ thuốc các loại, các cỡ",
+    "unit": "Cái",
+    "id": 143
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": "Stent động mạch thận các loại, các cỡ",
+    "unit": "Cái",
+    "id": 144
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": "Stent động mạch chi các loại, các cỡ",
+    "unit": "Cái",
+    "id": 145
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": "Stent động mạch cảnh các loại, các cỡ",
+    "unit": "Cái",
+    "id": 146
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": "Stent graft động mạch chủ ngực các loại, các cỡ",
+    "unit": "Cái",
+    "id": 147
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": "Stent graft động mạch chủ bụng các loại, các cỡ",
+    "unit": "Cái",
+    "id": 148
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": "Stent nội mạch làm thay đổi hướng dòng chảy các loại, các cỡ",
+    "unit": "Cái",
+    "id": 149
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": "Khung giá đỡ (stent có màng bọc, cover stent) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 150
+  },
+  {
+    "name": "Giá đỡ (stent)",
+    "tags": "Giá đỡ (stent) các loại, các cỡ khác",
+    "unit": "Cái",
+    "id": 151
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Thủy tinh thể nhân tạo (IOL, toric IOL) các loại, các cỡ (cứng, mềm, treo)",
+    "unit": "Cái",
+    "id": 152
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Bộ chỏm xương nhân tạo các loại, các cỡ (chỏm xương và các bộ phận kèm theo chỏm xương)",
+    "unit": "Bộ",
+    "id": 153
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Đốt sống nhân tạo, miếng ghép cột sống, đĩa đệm trong phẫu thuật cột sống các loại, các cỡ",
+    "unit": "Cái, miếng, hộp",
+    "id": 154
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Gân nhân tạo các loại, các cỡ",
+    "unit": "Đoạn",
+    "id": 155
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Gốm sinh học dùng thay thế xương các loại, các cỡ",
+    "unit": "Cái",
+    "id": 156
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Khớp, ổ khớp (toàn phần hoặc bán phần) nhân tạo các loại, các cỡ (bao gồm cả chuôi khớp)",
+    "unit": "Bộ",
+    "id": 157
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Khớp háng toàn phần các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 158
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Khớp háng bán phần các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 159
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Khớp gối các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 160
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Khớp vai các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 161
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Sụn nhân tạo các loại, các cỡ",
+    "unit": "Đoạn, miếng",
+    "id": 162
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Xương bảo quản, sản phẩm sinh học thay thế xương các loại, các cỡ",
+    "unit": "Cái",
+    "id": 163
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Xương con (dùng trong phẫu thuật tái tạo hệ thống truyền âm) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 164
+  },
+  {
+    "name": "Xương, sụn, khớp, gân nhân tạo",
+    "tags": "Xương nhân tạo các loại, các cỡ",
+    "unit": "Đoạn, miếng",
+    "id": 165
+  },
+  {
+    "name": "Miếng vá, mảnh ghép",
+    "tags": "Màng vá sinh học các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 166
+  },
+  {
+    "name": "Miếng vá, mảnh ghép",
+    "tags": "Mảnh ghép thoát vị bẹn, thành bụng các loại, các cỡ",
+    "unit": "Cái",
+    "id": 167
+  },
+  {
+    "name": "Miếng vá, mảnh ghép",
+    "tags": "Miếng vá khuyết sọ các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 168
+  },
+  {
+    "name": "Miếng vá, mảnh ghép",
+    "tags": "Miếng vá tim, vá mạch máu các loại, các cỡ",
+    "unit": "Miếng",
+    "id": 169
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": "Da dùng trong cấy ghép các loại, các cỡ",
+    "unit": "Tấm, miếng",
+    "id": 170
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": "Màng sinh học khác dùng trong điều trị các loại, các cỡ",
+    "unit": "Tấm, miếng",
+    "id": 171
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": "Keo sinh học sử dụng trong điều trị các loại",
+    "unit": "Lọ, tuýp",
+    "id": 172
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": "Màng ối các loại, các cỡ",
+    "unit": "Tấm, miếng",
+    "id": 173
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": "Màng tái tạo mô nhân tạo các loại, các cỡ",
+    "unit": "Cái, miếng",
+    "id": 174
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": "Tế bào sừng, tế bào sợi nuôi cấy dùng trong điều trị bỏng hay các tổn thương khác các loại, các cỡ",
+    "unit": "Tấm, miếng",
+    "id": 175
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": "Màng não nhân tạo, miếng vá nhân tạo các loại, các cỡ",
+    "unit": "Cái, miếng",
+    "id": 176
+  },
+  {
+    "name": "Vật liệu thay thế, vật liệu cấy ghép nhân tạo khác",
+    "tags": "Màng nuôi, màng nuôi cấy, sản phẩm nuôi cấy các loại, các cỡ",
+    "unit": "Cái, miếng",
+    "id": 177
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ siêu âm trong lòng mạch các loại, các cỡ (bao gồm: đầu dò siêu âm và hệ thống máng trượt)",
+    "unit": "Bộ",
+    "id": 178
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dây truyền dung dịch liệt tim các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 179
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ điều trị nội mạch các loại, các cỡ (bao gồm: kim chọc, dây dẫn, catheter để luồn cáp quang, dây đốt)",
+    "unit": "Bộ",
+    "id": 180
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ bít thông liên nhĩ, thông liên thất, bít ống động mạch, bít tiểu nhĩ trái, bít các đường rò bất thường trong tim mạch",
+    "unit": "Bộ",
+    "id": 181
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ đặt stent graft các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 182
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ điều trị rối loạn nhịp tim bằng RF các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 183
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ điều trị rung nhĩ qua đường ống thông các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 184
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ đo dự trữ lưu lượng động mạch vành và dụng cụ để đưa vào lòng mạch (FFR) các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 185
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ dùng trong khoan phá động mạch vành các loại, các cỡ (bao gồm: dây dẫn cho đầu mũi khoan (rotawire), dung dịch bôi trơn (lubricant rotaglide), đầu mũi khoan (rotalink burr), thiết bị đẩy và hệ thống khí nén (rotalink rotablator advancer))",
+    "unit": "Bộ",
+    "id": 186
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ lấy huyết khối trong lòng mạch máu các loại, các cỡ (bao gồm: ống hút, vi ống thông, khoan huyết khối, giá đỡ kéo huyết khối...)",
+    "unit": "Bộ",
+    "id": 187
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ mở đường vào mạch máu các loại, các cỡ (bao gồm: kim chọc, dây dẫn, ống có van tạo đường vào lòng mạch - introducer sheath)",
+    "unit": "Bộ",
+    "id": 188
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ nong van tim các loại, các cỡ (bao gồm: bóng nong và các phụ kiện đi kèm)",
+    "unit": "Bộ",
+    "id": 189
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ nút mạch các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 190
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ thả coil các loại, các cỡ",
+    "unit": "Cái",
+    "id": 191
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ thăm dò điện sinh lý tim (máy, điện cực, ...) các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 192
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ thay van tim qua đường ống thông, sửa van tim qua đường ống thông các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 193
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ thông tim thăm dò huyết động và chụp động mạch (ống thông để chụp động mạch vành, các động mạch khác, buồng tim) các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 194
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ thông tim thăm dò huyết động và chụp buồng tim các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 195
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ thả dù các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 196
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ thắt tĩnh mạch thực quản dùng một lần các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 197
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ tim phổi nhân tạo các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 198
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ tim phổi nhân tạo trong phẫu thuật tim",
+    "unit": "Bộ",
+    "id": 199
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Phổi nhân tạo (bao gồm: bình chứa máu (reservoir), bộ phận trộn khí, bộ phận trao đổi nhiệt);",
+    "unit": "",
+    "id": 200
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Hệ thống dây dẫn (circuit) kèm theo bộ phận bẫy khí;",
+    "unit": "",
+    "id": 201
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ phận lọc, quả lọc máu (fillter);",
+    "unit": "",
+    "id": 202
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Cannuyn kết nối vào mạch máu (động mạch, tĩnh mạch);",
+    "unit": "",
+    "id": 203
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ phận kết nối (connector), các chạc ba nối vào dây)",
+    "unit": "",
+    "id": 204
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ tim phổi nhân tạo ECMO trong hồi sức cấp cứu",
+    "unit": "Bộ",
+    "id": 205
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Phổi nhân tạo (bộ phận trộn khí, bộ phận trao đổi nhiệt);",
+    "unit": "",
+    "id": 206
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dây dẫn (Circuit);",
+    "unit": "",
+    "id": 207
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ phận kết nối canuyn vào mạch máu (động mạch, tĩnh mạch);",
+    "unit": "",
+    "id": 208
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bình chứa máu kín (reservoir);",
+    "unit": "",
+    "id": 209
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Hệ thống bơm ly tâm;",
+    "unit": "",
+    "id": 210
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ phận lọc máu, quả lọc máu (filter);",
+    "unit": "",
+    "id": 211
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Hệ thống cảm biến dòng)",
+    "unit": "",
+    "id": 212
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bơm áp lực các loại, các cỡ",
+    "unit": "Cái, bộ",
+    "id": 213
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bơm áp lực cao trong chụp buồng tim mạch các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 214
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bóng nong (balloon), bóng bơm ngược dòng động mạch chủ, bóng tách rời, bóng chẹn các loại, các cỡ",
+    "unit": "Cái, bộ",
+    "id": 215
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dây bơm áp lực cao, dây bơm cản quang áp lực cao các loại, các cỡ",
+    "unit": "Cái",
+    "id": 216
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dây dẫn áp lực để đo dự trữ dòng chảy động mạch vành (FFR) các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 217
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dây dẫn đường (guide wire) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 218
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dù amplatzer, dù dạng lưới kim loại tự nở các loại, các cỡ",
+    "unit": "Cái, bộ",
+    "id": 219
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dù bảo vệ chống tắc mạch hạ lưu động mạch vành và các động mạch khác để ngăn ngừa biến cố tắc mạch đoạn xa khi can thiệp các loại, các cỡ",
+    "unit": "Cái",
+    "id": 220
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dụng cụ cố định mạch vành các loại, các cỡ",
+    "unit": "Cái",
+    "id": 221
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dụng cụ để thả hoặc cắt vòng xoắn kim loại (dây đẩy coils, dụng cụ cắt coils) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 222
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dụng cụ đóng lòng mạch (angioseal; perclose…) các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 223
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dụng cụ lấy dị vật (multi-snare) trong tim mạch các loại, các cỡ",
+    "unit": "Cái",
+    "id": 224
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dụng cụ bào gọt lấy mảng xơ vữa thành mạch các loại, các cỡ",
+    "unit": "Cái",
+    "id": 225
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dụng cụ thổi CO2(blower) có đường bổ sung nước các loại, các cỡ",
+    "unit": "Cái",
+    "id": 226
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Dụng cụ treo mỏm tim các loại, các cỡ",
+    "unit": "Cái",
+    "id": 227
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Keo nút mạch các loại (onyx, histoacryl…)",
+    "unit": "Lọ, tuýp",
+    "id": 228
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Kim hút khí gốc động mạch các loại, các cỡ",
+    "unit": "Cái",
+    "id": 229
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Lưới lọc tĩnh mạch các loại, các cỡ",
+    "unit": "Cái",
+    "id": 230
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Máy tạo nhịp các loại, các cỡ (bao gồm: máy và hệ thống dây)",
+    "unit": "Bộ",
+    "id": 231
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Máy tạo nhịp 1 buồng",
+    "unit": "Bộ",
+    "id": 232
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Máy tạo nhịp 2 buồng",
+    "unit": "Bộ",
+    "id": 233
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Máy tạo nhịp 3 buồng tái đồng bộ cơ tim trong điều trị suy tim",
+    "unit": "Bộ",
+    "id": 234
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Máy tạo nhịp có phá rung cấy vào cơ thể",
+    "unit": "Bộ",
+    "id": 235
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Shunt trong lòng động mạch vành, mạch cảnh, mạch ngoại biên các loại, các cỡ",
+    "unit": "Cái",
+    "id": 236
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Vật liệu nút mạch (hạt nhựa PVA, lipiodol,…) các loại, các cỡ",
+    "unit": "Miếng, thỏi, lọ",
+    "id": 237
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Vật liệu nút mạch điều trị ung thư gan các loại, các cỡ",
+    "unit": "Miếng, thỏi, lọ",
+    "id": 238
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Vật liệu nút mạch tạm thời (spongel) các loại, các cỡ",
+    "unit": "Miếng, thỏi, lọ",
+    "id": 239
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Vi dây dẫn đường (micro guide wire) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 240
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Vòng xoắn kim loại (coils, matrix coils) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 241
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bộ dụng cụ điều trị rối loạn nhịp tim sử dụng hệ thống lập bản đồ ba chiều giải phẫu - điện học các buồng tim các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 242
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Bóng kéo các loại, các cỡ",
+    "unit": "Cái, bộ",
+    "id": 243
+  },
+  {
+    "name": "Tim mạch và X- quang can thiệp",
+    "tags": "Phim X- quang các loại, các cỡ",
+    "unit": "Cái",
+    "id": 244
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": "Bộ lọc màng bụng cấp cứu sử dụng một lần các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 245
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": "Bộ lọc màng bụng, bộ thẩm phân phúc mạc (bao gồm: catheter chuyên dụng, đầu nối titanium, hệ thống dây nối)",
+    "unit": "Bộ",
+    "id": 246
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": "Bộ thay máu sử dụng một lần các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 247
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": "Quả lọc tách huyết tương và bộ dây dẫn các loại, các cỡ",
+    "unit": "Quả, bộ",
+    "id": 248
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": "Quả lọc và hệ thống dây dẫn trong kỹ thuật hấp thụ phân tử liên tục các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 249
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": "Quả lọc, màng lọc máu và hệ thống dây dẫn đi kèm trong siêu lọc máu, lọc máu liên tục các loại, các cỡ",
+    "unit": "Quả, bộ",
+    "id": 250
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": "Quả lọc, màng lọc máu và hệ thống dây dẫn trong lọc máu (hemodialysis) định kỳ (thận nhân tạo) các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 251
+  },
+  {
+    "name": "Lọc máu, lọc màng bụng",
+    "tags": "Quả lọc thận nhân tạo các loại, các cỡ",
+    "unit": "Quả",
+    "id": 252
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Bộ cố định ngoài kiểu cọc ép răng sử dụng trong điều trị các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 253
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Bộ dao củng mạc dùng một lần dùng trong phẫu thuật cắt dịch kính, võng mạc các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 254
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Bộ tiền phòng nhân tạo dùng trong ghép giác mạc các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 255
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Chất nhầy, dung dịch hỗ trợ dùng trong phẫu thuật đặt thủy tinh thể nhân tạo Phaco các loại",
+    "unit": "Lọ, ống",
+    "id": 256
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Chất nhuộm màu dùng trong phẫu thuật mắt các loại",
+    "unit": "Lọ, ml",
+    "id": 257
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Đầu cắt, bộ cắt (dịch kính, bao sau, màng đồng tử, thủy tinh thể) dùng một lần, nhiều lần các loại, các cỡ",
+    "unit": "Bộ, cái",
+    "id": 258
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Đầu cắt, nạo amidan nhanh, cắt cuốn mũi nhanh dùng một lần các loại, các cỡ",
+    "unit": "Bộ, cái",
+    "id": 259
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Đầu đốt điện đông nội nhãn dùng trong phẫu thuật cắt dịch kính các loại, các cỡ",
+    "unit": "Cái",
+    "id": 260
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Đầu kim Phaco các loại, các cỡ",
+    "unit": "Chiếc",
+    "id": 261
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Đầu lạnh đông củng mạc các loại, các cỡ",
+    "unit": "Chiếc",
+    "id": 262
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Đầu lưỡi cắt sử dụng trong cắt thanh quản, hút nạo mũi xoang, nạo VA dùng một lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 263
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Dây cáp, dây dẫn sáng; đầu laser, đầu phát quang laser dùng trong phẫu thuật mắt các loại, các cỡ",
+    "unit": "Cái",
+    "id": 264
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Đinh nước củng mạc các loại, các cỡ",
+    "unit": "Chiếc",
+    "id": 265
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Kéo nội nhãn các loại, các cỡ",
+    "unit": "Chiếc",
+    "id": 266
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Kẹp bóc màng ngăn trong (dùng trong phẫu thuật cắt dịch kính, võng mạc) dùng một lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 267
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Meroches và các loại xốp mũi, tai, xoang các loại, các cỡ",
+    "unit": "Cái",
+    "id": 268
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Nam châm đặt trong nội nhãn các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 269
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Ống dẫn lưu, van dẫn lưu, dụng cụ thông áp lực nội nhãn dùng trong phẫu thuật Glôcôm (shunt, express Glaucoma filtration device) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 270
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Ống silicon, dầu silicon, đai silicon, tấm silicon dùng trong phẫu thuật mắt các loại, các cỡ",
+    "unit": "Cái, lọ",
+    "id": 271
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Pince bóc màng dùng một lần hoặc nhiều lần trong phẫu thuật mắt các loại, các cỡ",
+    "unit": "Chiếc",
+    "id": 272
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Vòng căng bao thủy tinh thể các loại, các cỡ",
+    "unit": "Cái",
+    "id": 273
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Dung dịch nhũ tương tích điện dương bảo vệ bề mặt nhãn cầu",
+    "unit": "Ống, lọ",
+    "id": 274
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Điện cực của máy dò thần kinh các loại, các cỡ",
+    "unit": "Cái",
+    "id": 275
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Tấm lót hút VAC các loại, các cỡ",
+    "unit": "Tấm, miếng",
+    "id": 276
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Van phát âm, thanh quản điện các loại, các cỡ",
+    "unit": "Cái",
+    "id": 277
+  },
+  {
+    "name": "Mắt, Tai Mũi Họng, Răng Hàm Mặt",
+    "tags": "Vật liệu độn dùng trong phẫu thuật múc nội nhãn các loại, các cỡ",
+    "unit": "Cái, miếng",
+    "id": 278
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": "Bộ dụng cụ phẫu thuật trĩ bằng dòng điện cao tần các loại, các cỡ (bao gồm: Bộ phẫu thuật trĩ (HCPT), kẹp cầm máu phẫu thuật trĩ, dụng cụ đông ngưng, bộ dây dẫn cao tần)",
+    "unit": "Bộ",
+    "id": 279
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": "Bộ mở thông dạ dày qua da các loại, các cỡ (bao gồm: Kim chọc, ống thông để nong, dây gắn miếng cố định)",
+    "unit": "Bộ",
+    "id": 280
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": "Bộ van nong hậu môn các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 281
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": "Dụng cụ, máy khâu cắt nối tự động sử dụng trong kỹ thuật Longo các loại, các cỡ (bao gồm cả vòng, băng ghim khâu kèm theo)",
+    "unit": "Bộ",
+    "id": 282
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": "Dụng cụ, máy cắt, khâu nối tự động sử dụng trong kỹ thuật Doppler các loại, các cỡ (bao gồm cả bộ đầu dò Doppler động mạch búi trĩ)",
+    "unit": "Bộ",
+    "id": 283
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": "Lọng cắt polyp ống tiêu hóa (thực quản, dạ dày, tá tràng, ruột non, trực tràng, đại tràng) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 284
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": "Tấm nâng, màng nâng, lưới dùng trong điều trị và phẫu thuật các loại, các cỡ",
+    "unit": "Miếng, tấm",
+    "id": 285
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": "Dụng cụ lấy giun, sán, dị vật các loại, các cỡ",
+    "unit": "Bộ, cái",
+    "id": 286
+  },
+  {
+    "name": "Tiêu hóa",
+    "tags": "Rọ, bóng lấy sỏi, dị vật, polyp, bệnh phẩm các loại, các cỡ",
+    "unit": "Cái",
+    "id": 287
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": "Băng đạn, ghim và dụng cụ cắt khâu nối trong tiết niệu các loại, các cỡ",
+    "unit": "Cái",
+    "id": 288
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": "Bộ đặt dẫn lưu thận qua da các loại, các cỡ (bao gồm: Kim chọc, ống thông để nong, ống thông (sonde) J-J, ống thông để đặt dẫn lưu ra ngoài)",
+    "unit": "Bộ, cái",
+    "id": 289
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": "Bộ dụng cụ dùng trong thẩm phân phúc mạc các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 290
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": "Bộ nong nhựa kèm amplatzer dùng trong tán sỏi thận qua da các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 291
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": "Bộ nong niệu quản bằng nhựa các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 292
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": "Đầu dò tán sỏi niệu quản các loại, các cỡ",
+    "unit": "Cái",
+    "id": 293
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": "Đầu tán sỏi, điện cực tán sỏi các loại, các cỡ",
+    "unit": "Cái",
+    "id": 294
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": "Dây cáp, đầu phát quang laser trong điều trị u xơ tuyến tiền liệt các loại, các cỡ",
+    "unit": "Cái",
+    "id": 295
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": "Điện cực cắt, đốt trong phẫu thuật nội soi cắt u tuyến tiền liệt các loại, các cỡ",
+    "unit": "Cái",
+    "id": 296
+  },
+  {
+    "name": "Tiết niệu",
+    "tags": "Thông giỏ dormia trong nội soi lấy sỏi niệu quản các loại, các cỡ",
+    "unit": "Cái",
+    "id": 297
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": "Áo bột, nẹp bột các loại, các cỡ",
+    "unit": "Cái",
+    "id": 298
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": "Áo chỉnh hình cột sống, giày chỉnh hình các loại, các cỡ",
+    "unit": "Chiếc",
+    "id": 299
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": "Bộ dụng cụ đổ xi măng các loại, các cỡ (bao gồm: Kim chọc, xi măng, bơm áp lực đẩy xi măng)",
+    "unit": "Bộ",
+    "id": 300
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": "Đinh, nẹp, ghim, kim, khóa, ốc, vít, lồng dùng trong phẫu thuật các loại, các cỡ",
+    "unit": "Cái, bộ",
+    "id": 301
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": "Khung, đai, nẹp, thanh luồn dùng trong chấn thương - chỉnh hình và phục hồi chức năng các loại, các cỡ",
+    "unit": "Cái, bộ",
+    "id": 302
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": "Thanh nâng ngực các loại, các cỡ",
+    "unit": "Cái",
+    "id": 303
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": "Xi-măng (cement) hóa học (dùng trong tạo hình thân đốt sống, tạo hình vòm sọ, khớp) các loại, các cỡ",
+    "unit": "Gram, lọ",
+    "id": 304
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": "Bộ dây bơm nước, đầu đốt điện, tay dao đốt điện dùng trong phẫu thuật các loại, các cỡ",
+    "unit": "Cái",
+    "id": 305
+  },
+  {
+    "name": "Chấn thương, chỉnh hình",
+    "tags": "Vật liệu tạo hình xương hốc mắt (tấm lót sàn), vật liệu tạo hình hộp sọ các loại, các cỡ",
+    "unit": "Miếng, cái",
+    "id": 306
+  },
+  {
+    "name": "Huyết học, truyền máu",
+    "tags": "Bộ kít tách bạch cầu, tách tiểu cầu, tách huyết tương các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 307
+  },
+  {
+    "name": "Huyết học, truyền máu",
+    "tags": "Bộ kít tách tế bào gốc các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 308
+  },
+  {
+    "name": "Huyết học, truyền máu",
+    "tags": "Bộ kít xác định hòa hợp tổ chức các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 309
+  },
+  {
+    "name": "Huyết học, truyền máu",
+    "tags": "Phin lọc bạch cầu các loại, các cỡ",
+    "unit": "Cái",
+    "id": 310
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Băng đạn, ghim khâu dùng trong phẫu thuật các loại, các cỡ",
+    "unit": "Cái",
+    "id": 311
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Băng ép tĩnh mạch các loại, các cỡ",
+    "unit": "Cái",
+    "id": 312
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Băng keo thử nhiệt các loại, các cỡ",
+    "unit": "Cuộn",
+    "id": 313
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bao áp lực truyền dịch nhanh các loại, các cỡ",
+    "unit": "Cái",
+    "id": 314
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bao bọc camera dùng trong thủ thuật, phẫu thuật các loại, các cỡ",
+    "unit": "Cái",
+    "id": 315
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bao bọc đầu thiết bị siêu âm các loại, các cỡ",
+    "unit": "Cái",
+    "id": 316
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bao đo huyết áp sơ sinh, người lớn dùng một lần các loại, các cỡ",
+    "unit": "Chiếc",
+    "id": 317
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bộ đặt dẫn lưu ổ dịch hoặc áp xe các loại, các cỡ (bao gồm: Kim chọc, ống nong, ống dẫn lưu)",
+    "unit": "Bộ",
+    "id": 318
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bộ đặt đường truyền hóa chất các loại, các cỡ (bao gồm: Kim chọc, ống thông, dây dẫn)",
+    "unit": "Bộ",
+    "id": 319
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bộ đầu dò dùng một lần, nhiều lần các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 320
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bộ đo áp lực nội sọ các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 321
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bộ đo dung lượng khí, bộ đo khí động mạch các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 322
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bộ đốt nhiệt điều trị khối u (bao gồm: Kim đốt nhiệt, dây nối, điện cực dán) các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 323
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bộ mở khí quản sử dụng một lần các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 324
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Buồng tiêm truyền hóa chất các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 325
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Đầu đo SpO2(sensor) dùng một lần các loại, các cỡ",
+    "unit": "Cái",
+    "id": 326
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Dây dẫn ánh sáng lạnh dùng trong thủ thuật, phẫu thuật các loại, các cỡ",
+    "unit": "Chiếc",
+    "id": 327
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Đầu camera trong thủ thuật, phẫu thuật các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 328
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Đầu côn các loại, các cỡ",
+    "unit": "Cái",
+    "id": 329
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Đầu dây tán sỏi đường mật nội soi các loại, các cỡ",
+    "unit": "Cái",
+    "id": 330
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Đầu đốt, dao hàn mạch các loại dùng trong thủ thuật, phẫu thuật các loại, các cỡ",
+    "unit": "Chiếc",
+    "id": 331
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Đầu kim rửa hút dùng một lần sử dụng trong phẫu thuật chuyên khoa các loại, các cỡ",
+    "unit": "Cái",
+    "id": 332
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Dây cáp, đầu đo huyết áp xâm nhập (dome) các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 333
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Đè lưỡi (gỗ, inox, sắt) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 334
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Miếng dán điện cực, điện cực dán, đệm điện cực các loại, các cỡ",
+    "unit": "Cái, miếng, chiếc",
+    "id": 335
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Kìm, khóa, kẹp (clip, clamp) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 336
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Máng đặt ống thông",
+    "unit": "Cái",
+    "id": 337
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Mặt nạ (mask) các loại, các cỡ",
+    "unit": "Cái, chiếc",
+    "id": 338
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Mũi khoan dùng trong thủ thuật, phẫu thuật các loại, các cỡ (bao gồm cả tay cắt)",
+    "unit": "Cái, bộ",
+    "id": 339
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Phin lọc khí các loại, các cỡ",
+    "unit": "Cái",
+    "id": 340
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Phin lọc vi khuẩn các loại, các cỡ",
+    "unit": "Cái",
+    "id": 341
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Stapler dùng một lần trong phẫu thuật các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 342
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Tấm giữ nhiệt các loại, các cỡ",
+    "unit": "Cái",
+    "id": 343
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Bộ gây tê ngoài màng cứng các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 344
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Dây dẫn tín hiệu dùng trong đốt sóng cao tần các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 345
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Dịch lọc máu liên tục các loại",
+    "unit": "Túi",
+    "id": 346
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Dung dịch bảo quản mô, tạng, giác mạc; dung dịch liệt tim các loại",
+    "unit": "Ml, lít",
+    "id": 347
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Dụng cụ cấy hạt phóng xạ các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 348
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Dụng cụ dẫn đường dùng trong phẫu thuật vi phẫu u não thất và quang động học (PTD) trong điều trị u não ác tính các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 349
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Dụng cụ dùng trong xạ trị áp sát (dụng cụ cấy, kim cấy cho cổ tử cung, tử cung, âm đạo, trực tràng, vú, các xoang, phần mềm, da, vòm mũi họng, thực quản, khí quản, phế quản, phổi, hạch …) các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 350
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Hạt vi cầu Resin gắn đồng vị phóng xạ Y-90 (kèm theo hộp bảo vệ phóng xạ, bình chia liều, ống đựng liều chuẩn, dây dẫn, kim-bơm tiêm hạt phóng xạ chuyên dụng)",
+    "unit": "Bộ",
+    "id": 351
+  },
+  {
+    "name": "Vật tư y tế sử dụng trong chẩn đoán, điều trị khác",
+    "tags": "Troca nhựa dùng trong phẫu thuật nội soi các loại, các cỡ",
+    "unit": "Bộ, cái",
+    "id": 352
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": "Bóng đèn hồng ngoại các loại, các cỡ",
+    "unit": "Chiếc",
+    "id": 353
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": "Bóng đèn tử ngoại các loại, các cỡ",
+    "unit": "Chiếc",
+    "id": 354
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": "Bóng phát tia máy xạ trị gia tốc các loại, các cỡ",
+    "unit": "Cái",
+    "id": 355
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": "Bút phóng xạ đánh dấu chụp SPECT (pen point marker) các loại, các cỡ",
+    "unit": "Cái",
+    "id": 356
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": "Phantom các loại, các cỡ",
+    "unit": "Bộ",
+    "id": 357
+  },
+  {
+    "name": "Các loại vật tư y tế thay thế sử dụng trong một số thiết bị chẩn đoán, điều trị",
+    "tags": "Tấm cố định phần thân dùng trong xạ trị gia tốc các loại, các cỡ",
+    "unit": "Cái",
+    "id": 358
+  }
+]

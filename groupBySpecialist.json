@@ -1,0 +1,373 @@
+[
+  {
+    "name": "Khoa thận",
+    "keyword": [
+      "thận",
+      "lọcmáu",
+      "dịchlọc",
+      "thẩmphân",
+      "fav",
+      "quảlọc",
+      "mànglọc",
+      "peracetic",
+      "hdplus",
+      "axitcitric",
+      "acidcitric",
+      "lọcmàngbụng",
+      "phúcmạc",
+      "tnt"
+    ],
+    "unit": [],
+    "categoryList": [
+      {
+        "name": "Quả lọc liên tục",
+        "keyword": [
+          "quả&liêntục",
+          "màng&liêntục",
+          "quả&omni",
+          "màng&omni",
+          "quả&bộdây",
+          "màng&bộdây",
+          "quả&prismaflex",
+          "màng&prismaflex"
+        ],
+        "unit": []
+      },
+      {
+        "name": "Quả lọc hấp phụ",
+        "keyword": ["quả&hấpphụ", "màng&hấpphụ"],
+        "unit": []
+      },
+      {
+        "name": "Quả lọc tách huyết tương",
+        "keyword": ["quả&huyếttương"],
+        "unit": []
+      },
+      {
+        "name": "Quả lọc chu kỳ",
+        "keyword": ["quảlọc", "mànglọc", "siêulọc", "thônglượng", "low", "high", "middle"],
+        "unit": []
+      },
+      {
+        "name": "Lọc màng bụng",
+        "keyword": ["màngbụng"],
+        "unit": []
+      },
+      {
+        "name": "Dây lọc liên tục",
+        "keyword": ["dây&liêntục", "dây&prismaflex"],
+        "unit": []
+      },
+      {
+        "name": "Dây lọc chu kỳ",
+        "keyword": ["dây"],
+        "unit": []
+      },
+      {
+        "name": "Kim",
+        "keyword": ["kim"],
+        "unit": []
+      },
+      {
+        "name": "Dịch lọc",
+        "keyword": ["dịchlọc", "thẩmphân", "hdplus"],
+        "unit": []
+      },
+      {
+        "name": "Axit citric bột",
+        "keyword": [
+          "axitcitric",
+          "acidcitric",
+          "rửamáy",
+          "tẩyrửamáy",
+          "khửtrùngmáy",
+          "khửkhuẩnmáy",
+          "làmsạchmáy",
+          "tẩykhuẩnmáy"
+        ],
+        "unit": []
+      },
+      {
+        "name": "Axit citric lỏng",
+        "keyword": [
+          "axitcitric",
+          "acidcitric",
+          "rửamáy",
+          "tẩyrửamáy",
+          "khửtrùngmáy",
+          "khửkhuẩnmáy",
+          "làmsạchmáy",
+          "tẩykhuẩnmáy"
+        ],
+        "unit": []
+      },
+      {
+        "name": "Dung dịch rửa màng",
+        "keyword": [
+          "rửamàng",
+          "rửaquả",
+          "peracetic",
+          "mdt",
+          "vertecid",
+          "vertexit",
+          "khửtrùngquả",
+          "khửtrùngmàng",
+          "bảoquảnquả",
+          "bảoquảnmàng",
+          "diệtkhuẩnmàng",
+          "diệtkhuẩnquả",
+          "ngâmquả",
+          "ngâmmàng",
+          "sátkhuẩnmàng",
+          "sátkhuẩnquả",
+          "tẩykhuẩnmàng",
+          "tẩykhuẩnquả",
+          "tẩytrùngquả",
+          "tẩytrùngmàng"
+        ],
+        "unit": []
+      },
+      {
+        "name": "Máy HDF online",
+        "keyword": ["máy&hdf"],
+        "unit": []
+      },
+      {
+        "name": "Máy thận liên tục",
+        "keyword": ["máy&liêntục", "máy&prismaflex"],
+        "unit": []
+      },
+      {
+        "name": "Máy thận chu kỳ",
+        "keyword": ["máychạythận", "máylọcthận", "máythận", "máytnt"],
+        "unit": []
+      },
+      {
+        "name": "Máy RO",
+        "keyword": ["máy&ro"],
+        "unit": []
+      },
+      {
+        "name": "Máy rửa",
+        "keyword": ["máy&rửa"],
+        "unit": []
+      },
+      {
+        "name": "FAV",
+        "keyword": ["fav", "bộtiêmchích", "gạcthận"],
+        "unit": []
+      },
+      {
+        "name": "Khác",
+        "keyword": [],
+        "unit": []
+      }
+    ]
+  },
+  {
+    "name": "Khoa Răng hàm mặt",
+    "keyword": [
+      "nhakhoa",
+      "răng",
+      "ốngtuỷ",
+      "nướu",
+      "composite",
+      "cone",
+      "trám",
+      "đánhbóng",
+      "nướcbọt",
+      "trâm",
+      "mặt",
+      "hàm"
+    ],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Khoa Tiêu hoá",
+    "keyword": [
+      "tiêuhoá",
+      "dạdày",
+      "trựctràng",
+      "thựcquản",
+      "hậumôn",
+      "miệng",
+      "đạitràng",
+      "polyp",
+      "đườngmật"
+    ],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Khoa Xét nghiệm",
+    "keyword": [
+      "xétnghiệm",
+      "khoanh",
+      "đĩa",
+      "môitrường",
+      "khánhsinh",
+      "khángthể",
+      "thuốcthử",
+      "chấtthử",
+      "thửnghiệm",
+      "địnhdanh",
+      "nhuộm",
+      "hồngcầu",
+      "địnhtính",
+      "địnhlượng",
+      "lamkính",
+      "bệnhphẩm",
+      "ốngnghiệm",
+      "test",
+      "quethử",
+      "lame",
+      "phảnứng",
+      "phaloãng",
+      "huyếthọc",
+      "tếbào",
+      "hiệuchuẩn",
+      "giếng"
+    ],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Nhãn khoa",
+    "keyword": ["nhãnkhoa", "mắt", "thuỷtinhthể"],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "KhoaChuẩnđoánhìnhảnh",
+    "keyword": ["phim", "x-quang", "x-ray", "film", "siêuâm", "điệntim"],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Khoa Xương khớp",
+    "keyword": [
+      "băngbộtbó",
+      "xương",
+      "khớp",
+      "chỉnhhình",
+      "đai",
+      "nẹp",
+      "chân",
+      "tay",
+      "đùi",
+      "đinh",
+      "vít",
+      "khung",
+      "gân",
+      "đốtsống",
+      "đĩađệm",
+      "cộtsống",
+      "garo",
+      "băngbóbột",
+      "cổ",
+      "sụn"
+    ],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Sản khoa",
+    "keyword": ["màngcứng", "thai", "sản", "âmđạo", "sơsinh"],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Nhi khoa",
+    "keyword": ["trẻem", "nhikhoa", "khoanhi"],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Khoa Gây mê, Hồi sức",
+    "keyword": ["gâymê", "gâytê", "mask", "mặtnạ"],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "KhoaTimmạch",
+    "keyword": ["tim"],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Khoa Tai mũi họng",
+    "keyword": ["tai", "mũi", "họng", "khíquản", "lưỡi", "đàm"],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Ngoại khoa",
+    "keyword": [
+      "ngoại",
+      "mổ",
+      "phẫuthuật",
+      "cầmmáu",
+      "chỉ",
+      "dao",
+      "cắt",
+      "khâu",
+      "nộisoi",
+      "kẹp",
+      "kiềm",
+      "dịvật"
+    ],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Khoa tiết niệu",
+    "keyword": ["niệuquản", "tiểu", "ốngthông"],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Khoa Hô hấp",
+    "keyword": ["phổi", "khíquản", "ngực", "thở"],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Khoa Thần kinh",
+    "keyword": ["não", "sọ"],
+    "unit": [],
+    "categoryList": []
+  },
+  {
+    "name": "Chung",
+    "keyword": [
+      "sátkhuẩn",
+      "khửkhuẩn",
+      "cồn",
+      "nướccất",
+      "bông",
+      "băng",
+      "gạc",
+      "bơmtiêm",
+      "kimtiêm",
+      "dâytruyềnmáu",
+      "dâytruyềndịch",
+      "dâynối",
+      "khoá",
+      "găngtay",
+      "găng",
+      "túiép",
+      "túimáu",
+      "khẩutrang",
+      "rửa",
+      "tẩy",
+      "làmsạch",
+      "tiệtkhuẩn",
+      "diệtkhuẩn",
+      "khửtrùng",
+      "dâychoăn"
+    ],
+    "unit": [],
+    "categoryList": []
+  }
+]
