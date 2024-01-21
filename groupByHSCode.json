@@ -1,979 +1,1383 @@
 [
-  {
-    "fullHSCode": "3002.11.00",
-    "shortHSCode": "3002",
-    "keyword": ["sốt", "rét"]
-  },
-  {
-    "fullHSCode": "3004.90.99",
-    "shortHSCode": "3004",
-    "keyword": [
-      "xịt",
-      "kem",
-      "phòng",
-      "ngừa",
-      "loét",
-      "tì",
-      "đè",
-      "muối",
-      "vệ",
-      "sinh",
-      "mũi",
-      "nước",
-      "biển",
-      "tai",
-      "họng",
-      "mắt",
-      "nhân",
-      "tạo",
-      "nhũ",
-      "tương",
-      "nhỏ",
-      "làm",
-      "ẩm",
-      "mềm",
-      "miệng",
-      "lọc",
-      "thận"
-    ]
-  },
-  {
-    "fullHSCode": "3822.00.10",
-    "shortHSCode": "3822",
-    "keyword": ["tấm", "phiến", "màng", "lá", "dải", "plastic"]
-  },
-  {
-    "fullHSCode": "3822.00.20",
-    "shortHSCode": "3822",
-    "keyword": ["bìa", "tấm", "sợi", "màng", "xơ", "xenlulo"]
-  },
-  {
-    "fullHSCode": "3822.00.90",
-    "shortHSCode": "3822",
-    "keyword": [
-      "que",
-      "thử",
-      "khay",
-      "chất",
-      "hiệu",
-      "chuẩn",
-      "vật",
-      "liệu",
-      "kiểm",
-      "soát",
-      "in",
-      "vitro"
-    ]
-  },
-  {
-    "fullHSCode": "3005.10.10",
-    "shortHSCode": "3005",
-    "keyword": ["băng", "dán", "lớp", "dính", "tráng", "phủ", "thấm", "tẩm"]
-  },
-  {
-    "fullHSCode": "3005.10.90",
-    "shortHSCode": "3005",
-    "keyword": ["băng", "dán", "miếng", "sát", "khuẩn", "hạ", "sốt", "lạnh", "giữ", "nhiệt"]
-  },
-  {
-    "fullHSCode": "3005.90.10",
-    "shortHSCode": "3005",
-    "keyword": ["băng"]
-  },
-  {
-    "fullHSCode": "3005.90.20",
-    "shortHSCode": "3005",
-    "keyword": ["gạc"]
-  },
-  {
-    "fullHSCode": "3005.90.90",
-    "shortHSCode": "3005",
-    "keyword": ["bông"]
-  },
-  {
-    "fullHSCode": "3006.10.10",
-    "shortHSCode": "3006",
-    "keyword": [
-      "chỉ",
-      "tự",
-      "tiêu",
-      "vô",
-      "trùng",
-      "nha",
-      "khoa",
-      "phẫu",
-      "thuật",
-      "miếng",
-      "chắn",
-      "dính,",
-      "đệm"
-    ]
-  },
-  {
-    "fullHSCode": "3006.10.90",
-    "shortHSCode": "3006",
-    "keyword": [
-      "chỉ",
-      "không",
-      "tự",
-      "tiêu",
-      "cầm",
-      "máu",
-      "vô",
-      "trùng",
-      "phẫu",
-      "thuật",
-      "nha",
-      "khoa",
-      "tấm",
-      "nâng",
-      "lưới",
-      "thoát",
-      "vị",
-      "keo",
-      "dán",
-      "màng",
-      "ngăn",
-      "hấp",
-      "thu",
-      "sinh",
-      "học",
-      "tạo",
-      "khép",
-      "miệng",
-      "tảo",
-      "nong",
-      "nút"
-    ]
-  },
-  {
-    "fullHSCode": "3006.20.00",
-    "shortHSCode": "3006",
-    "keyword": ["nhóm", "máu"]
-  },
-  {
-    "fullHSCode": "3006.40.10",
-    "shortHSCode": "3006",
-    "keyword": ["xi", "măng", "hàn", "răng"]
-  },
-  {
-    "fullHSCode": "3006.40.20",
-    "shortHSCode": "3006",
-    "keyword": ["xi", "măng", "gắn", "xương"]
-  },
-  {
-    "fullHSCode": "3006.50.00",
-    "shortHSCode": "3006",
-    "keyword": ["hộp", "bộ", "dụng", "cụ", "cấp", "cứu", "kít", "chăm", "sóc"]
-  },
-  {
-    "fullHSCode": "3006.70.00",
-    "shortHSCode": "3006",
-    "keyword": [
-      "gel",
-      "chất",
-      "bôi",
-      "trơn",
-      "siêu",
-      "âm",
-      "đạo",
-      "dịch",
-      "nhầy",
-      "phẫu",
-      "thuật",
-      "phaco"
-    ]
-  },
-  {
-    "fullHSCode": "3006.91.00",
-    "shortHSCode": "3006",
-    "keyword": ["mổ", "hậu", "môn", "giả"]
-  },
-  {
-    "fullHSCode": "3306.10.10",
-    "shortHSCode": "3306",
-    "keyword": ["bột", "nhão", "chặt", "chân", "răng"]
-  },
-  {
-    "fullHSCode": "3307.90.50",
-    "shortHSCode": "3307",
-    "keyword": ["dung", "dịch", "ngâm", "rửa", "làm", "sạch", "bảo", "quản", "kính", "áp", "tròng"]
-  },
-  {
-    "fullHSCode": "3701.10.00",
-    "shortHSCode": "3701",
-    "keyword": ["phim", "x", "quang"]
-  },
-  {
-    "fullHSCode": "3701.99.90",
-    "shortHSCode": "3701",
-    "keyword": ["tấm", "cảm", "biến", "nhận", "ảnh", "x", "quang"]
-  },
-  {
-    "fullHSCode": "3808.94.90",
-    "shortHSCode": "3808",
-    "keyword": ["dung", "dịch", "hóa", "chất", "khử", "khuẩn", "dụng", "cụ", "thiết", "bị"]
-  },
-  {
-    "fullHSCode": "3926.90.39",
-    "shortHSCode": "3926",
-    "keyword": [
-      "plastic",
-      "cuvet",
-      "đầu",
-      "côn",
-      "khay",
-      "ngâm",
-      "dụng",
-      "cụ",
-      "tiệt",
-      "khuẩn",
-      "bộ",
-      "chuyển",
-      "tiếp",
-      "ống",
-      "nối",
-      "nẹp",
-      "mặt",
-      "nạ",
-      "cố",
-      "định",
-      "kẹp",
-      "thông",
-      "dây",
-      "dẫn",
-      "miếng",
-      "dán",
-      "giữ",
-      "túi",
-      "đựng",
-      "nước",
-      "tiểu",
-      "dịch",
-      "xả",
-      "nghiệm",
-      "chứa",
-      "chất",
-      "chống",
-      "đông",
-      "ép",
-      "trùng",
-      "bao",
-      "bì",
-      "dụng",
-      "cụ",
-      "chụp",
-      "đầu",
-      "đèn",
-      "camera",
-      "soi",
-      "bệnh",
-      "phẩm",
-      "nội"
-    ]
-  },
-  {
-    "fullHSCode": "4014.10.00",
-    "shortHSCode": "4014",
-    "keyword": ["bao", "cao", "su"]
-  },
-  {
-    "fullHSCode": "4015.11.00",
-    "shortHSCode": "4015",
-    "keyword": ["găng", "tay", "phẫu", "thuật"]
-  },
-  {
-    "fullHSCode": "4015.19.00",
-    "shortHSCode": "4015",
-    "keyword": ["găng", "khám"]
-  },
-  {
-    "fullHSCode": "4819.50.00",
-    "shortHSCode": "4819",
-    "keyword": ["bao", "bì", "túi", "nhựa", "giấy"]
-  },
-  {
-    "fullHSCode": "4823.90.99",
-    "shortHSCode": "4823",
-    "keyword": ["ống", "ép", "dẹt", "giấy", "polyester", "cuộn"]
-  },
-  {
-    "fullHSCode": "6115.10.10",
-    "shortHSCode": "6115",
-    "keyword": ["tất", "vớ", "giãn", "tĩnh", "mạch", "sợi", "tổng", "hợp"]
-  },
-  {
-    "fullHSCode": "6211.43.10",
-    "shortHSCode": "6211",
-    "keyword": ["áo", "phẫu", "thuật"]
-  },
-  {
-    "fullHSCode": "6212.90.11",
-    "shortHSCode": "6212",
-    "keyword": ["bông", "đàn", "hồi", "mô", "sẹo", "ghép", "da"]
-  },
-  {
-    "fullHSCode": "6212.90.91",
-    "shortHSCode": "6212",
-    "keyword": ["đàn", "hồi", "mô", "sẹo", "ghép", "da"]
-  },
-  {
-    "fullHSCode": "6307.90.40",
-    "shortHSCode": "6307",
-    "keyword": ["khẩu", "trang", "phẫu", "thuật"]
-  },
-  {
-    "fullHSCode": "8419.20.00",
-    "shortHSCode": "8419",
-    "keyword": [
-      "khử",
-      "trùng",
-      "máy",
-      "hấp",
-      "tiệt",
-      "trùng",
-      "nồi",
-      "nhiệt",
-      "độ",
-      "thấp",
-      "plasma"
-    ]
-  },
-  {
-    "fullHSCode": "8421.19.90",
-    "shortHSCode": "8421",
-    "keyword": ["máy", "ly", "tâm", "chẩn", "đoán", "xét", "nghiệm", "sàng", "lọc"]
-  },
-  {
-    "fullHSCode": "8713.10.00 8713.90.00",
-    "shortHSCode": "8713",
-    "keyword": [
-      "xe",
-      "lăn",
-      "đẩy",
-      "cáng",
-      "cứu",
-      "thương",
-      "chở",
-      "người",
-      "tàn",
-      "tật",
-      "vận",
-      "hành",
-      "cơ",
-      "giới"
-    ]
-  },
-  {
-    "fullHSCode": "9001.30.00",
-    "shortHSCode": "9001",
-    "keyword": ["kính", "áp", "tròng", "cận", "viễn", "loạn"]
-  },
-  {
-    "fullHSCode": "9002.90.90",
-    "shortHSCode": "9002",
-    "keyword": ["kính", "lúp", "phẫu", "thuật", "soi", "da"]
-  },
-  {
-    "fullHSCode": "9004.90.10",
-    "shortHSCode": "9004",
-    "keyword": ["kính", "thuốc"]
-  },
-  {
-    "fullHSCode": "9011.80.00",
-    "shortHSCode": "9011",
-    "keyword": ["kính", "hiển", "vi", "phẫu", "thuật"]
-  },
-  {
-    "fullHSCode": "9013.20.00",
-    "shortHSCode": "9013",
-    "keyword": ["máy", "chiếu", "tia", "laser", "co2"]
-  },
-  {
-    "fullHSCode": "9018.11.00",
-    "shortHSCode": "9018",
-    "keyword": ["điện", "tim"]
-  },
-  {
-    "fullHSCode": "9018.12.00",
-    "shortHSCode": "9018",
-    "keyword": ["siêu", "âm", "đo", "độ", "loãng", "xương", "máy", "nhịp", "tim", "thai"]
-  },
-  {
-    "fullHSCode": "9018.13.00",
-    "shortHSCode": "9018",
-    "keyword": ["chụp", "cộng", "hưởng", "từ"]
-  },
-  {
-    "fullHSCode": "9018.14.00",
-    "shortHSCode": "9018",
-    "keyword": ["ghi", "biểu", "đồ", "nhấp", "nháy"]
-  },
-  {
-    "fullHSCode": "9018.19.00",
-    "shortHSCode": "9018",
-    "keyword": [
-      "theo",
-      "dõi",
-      "bệnh",
-      "nhân",
-      "độ",
-      "vàng",
-      "da",
-      "điện",
-      "não",
-      "cơ",
-      "nội",
-      "soi",
-      "chẩn",
-      "đoán",
-      "máy",
-      "đo",
-      "phân",
-      "tích",
-      "hô",
-      "hấp",
-      "định",
-      "vị",
-      "kiểm",
-      "tra",
-      "thông",
-      "số",
-      "sinh",
-      "lý"
-    ]
-  },
-  {
-    "fullHSCode": "9018.20.00",
-    "shortHSCode": "9018",
-    "keyword": ["máy", "chiếu", "tia", "cực", "tím", "hồng", "ngoại"]
-  },
-  {
-    "fullHSCode": "9018.31.10",
-    "shortHSCode": "9018",
-    "keyword": ["bơm", "tiêm"]
-  },
-  {
-    "fullHSCode": "9018.31.90",
-    "shortHSCode": "9018",
-    "keyword": ["bơm", "tiêm", "điện", "máy", "truyền", "dịch"]
-  },
-  {
-    "fullHSCode": "9018.32.00",
-    "shortHSCode": "9018",
-    "keyword": [
-      "kim",
-      "tiêm",
-      "loại",
-      "khâu",
-      "phẫu",
-      "thuật",
-      "bút",
-      "lấy",
-      "máu",
-      "dịch",
-      "cơ",
-      "thể",
-      "thận",
-      "nhân",
-      "tạo",
-      "luồn",
-      "mạch"
-    ]
-  },
-  {
-    "fullHSCode": "9018.39.10",
-    "shortHSCode": "9018",
-    "keyword": ["ống", "thông", "đường", "tiểu"]
-  },
-  {
-    "fullHSCode": "9018.39.90",
-    "shortHSCode": "9018",
-    "keyword": [
-      "ống",
-      "thông",
-      "dẫn",
-      "lưu",
-      "mở",
-      "đường",
-      "mạch",
-      "máu",
-      "bộ",
-      "kít",
-      "pool",
-      "tiểu",
-      "cầu",
-      "lọc",
-      "bạch",
-      "dây",
-      "nối",
-      "quả",
-      "rút",
-      "nước",
-      "dạ",
-      "dày",
-      "ăn",
-      "lấy",
-      "mẫu",
-      "bơm",
-      "tiêm",
-      "điện"
-    ]
-  },
-  {
-    "fullHSCode": "9018.41.00",
-    "shortHSCode": "9018",
-    "keyword": ["khoan", "nha", "khoa", "giá", "đỡ"]
-  },
-  {
-    "fullHSCode": "9018.50.00",
-    "shortHSCode": "9018",
-    "keyword": [
-      "nhãn",
-      "khoa",
-      "máy",
-      "đo",
-      "khúc",
-      "xạ",
-      "giác",
-      "mạc",
-      "điện",
-      "võng",
-      "chụp",
-      "cắt",
-      "lớp",
-      "đáy",
-      "mắt",
-      "huỳnh",
-      "quang",
-      "đáy",
-      "phẫu",
-      "thuật",
-      "laser",
-      "excimer",
-      "phemtosecond",
-      "phaco",
-      "dịch",
-      "kính",
-      "vạt",
-      "thông",
-      "áp",
-      "lực",
-      "nội",
-      "glôcôm"
-    ]
-  },
-  {
-    "fullHSCode": "9018.90.20",
-    "shortHSCode": "9018",
-    "keyword": ["theo", "dõi", "tĩnh", "mạch", "máy", "soi"]
-  },
-  {
-    "fullHSCode": "9018.90.90",
-    "shortHSCode": "9018",
-    "keyword": ["xuất", "nhập", "khẩu"]
-  },
-  {
-    "fullHSCode": "9018.90.30",
-    "shortHSCode": "9018",
-    "keyword": [
-      "phẫu",
-      "thuật",
-      "nha",
-      "khoa",
-      "máy",
-      "phá",
-      "rung",
-      "tim",
-      "dao",
-      "điện",
-      "siêu",
-      "âm",
-      "mổ",
-      "laser",
-      "gây",
-      "mê",
-      "kèm",
-      "thở",
-      "lồng",
-      "ấp",
-      "trẻ",
-      "sơ",
-      "sinh",
-      "tán",
-      "sỏi",
-      "lọc",
-      "máu",
-      "lạnh",
-      "phổi",
-      "nhân",
-      "tạo",
-      "gan",
-      "chạy",
-      "thận",
-      "thẩm",
-      "phân",
-      "phúc",
-      "mạc",
-      "suy",
-      "tiền",
-      "liệt",
-      "tuyến"
-    ]
-  },
-  {
-    "fullHSCode": "9021.10.00",
-    "shortHSCode": "9021",
-    "keyword": ["chỉnh", "hình", "đinh,", "nẹp,", "vít", "xương"]
-  },
-  {
-    "fullHSCode": "9021.21.00",
-    "shortHSCode": "9021",
-    "keyword": ["răng", "giả"]
-  },
-  {
-    "fullHSCode": "9021.31.00",
-    "shortHSCode": "9021",
-    "keyword": ["khớp", "giả"]
-  },
-  {
-    "fullHSCode": "9021.39.00",
-    "shortHSCode": "9021",
-    "keyword": ["nhân", "tạo"]
-  },
-  {
-    "fullHSCode": "9021.40.00",
-    "shortHSCode": "9021",
-    "keyword": ["trợ", "thính"]
-  },
-  {
-    "fullHSCode": "9021.50.00",
-    "shortHSCode": "9021",
-    "keyword": ["điều", "hòa", "nhịp", "tim", "kích", "thích", "cơ"]
-  },
-  {
-    "fullHSCode": "9021.90.00",
-    "shortHSCode": "9021",
-    "keyword": [
-      "lắp",
-      "mang",
-      "theo",
-      "cấy",
-      "ghép",
-      "bù",
-      "đắp",
-      "khuyết",
-      "tật",
-      "suy",
-      "giảm",
-      "khung",
-      "giá",
-      "đỡ",
-      "mạch",
-      "vành",
-      "hạt",
-      "nút",
-      "lưới",
-      "lọc",
-      "huyết",
-      "khối",
-      "đóng",
-      "động",
-      "thủy",
-      "tinh",
-      "thể",
-      "nhân",
-      "tạo"
-    ]
-  },
-  {
-    "fullHSCode": "9022.12.00",
-    "shortHSCode": "9022",
-    "keyword": ["chụp", "cắt", "lớp", "ct", "điều", "khiển", "bằng", "máy", "tính"]
-  },
-  {
-    "fullHSCode": "9022.13.00",
-    "shortHSCode": "9022",
-    "keyword": ["thiết", "bị", "chẩn", "đoán", "điều", "trị", "nha", "khoa"]
-  },
-  {
-    "fullHSCode": "9022.14.00",
-    "shortHSCode": "9022",
-    "keyword": ["tia", "x", "chẩn", "đoán", "điều", "trị", "phẫu", "thuật"]
-  },
-  {
-    "fullHSCode": "9022.21.00",
-    "shortHSCode": "9022",
-    "keyword": [
-      "tia",
-      "alpha",
-      "beta",
-      "gamma",
-      "phẫu",
-      "thuật",
-      "nha",
-      "khoa",
-      "máy",
-      "coban",
-      "ung",
-      "thư,",
-      "gia",
-      "tốc",
-      "tuyến",
-      "tính",
-      "dao",
-      "mổ",
-      "xạ",
-      "trị",
-      "áp",
-      "sát"
-    ]
-  },
-  {
-    "fullHSCode": "9022.90.90",
-    "shortHSCode": "9022",
-    "keyword": [
-      "đồng",
-      "vị",
-      "phóng",
-      "xạ",
-      "pet",
-      "spect",
-      "đo",
-      "độ",
-      "tập",
-      "trung",
-      "iốt",
-      "i130",
-      "i131"
-    ]
-  },
-  {
-    "fullHSCode": "9025.19.19",
-    "shortHSCode": "9025",
-    "keyword": ["nhiệt", "kế", "điện", "tử"]
-  },
-  {
-    "fullHSCode": "9025.19.20",
-    "shortHSCode": "9025",
-    "keyword": ["nhiệt", "kế", "thủy", "ngân"]
-  },
-  {
-    "fullHSCode": "9027.80.30",
-    "shortHSCode": "9027",
-    "keyword": [
-      "lý",
-      "hóa",
-      "học",
-      "phân",
-      "tích",
-      "sinh",
-      "điện",
-      "giải",
-      "khí",
-      "máu",
-      "huyết",
-      "đông",
-      "tốc",
-      "độ",
-      "lắng",
-      "elisa",
-      "nhóm",
-      "chiết",
-      "tách",
-      "tế",
-      "bào",
-      "ngưng",
-      "tập",
-      "chức",
-      "năng",
-      "tiểu",
-      "cầu",
-      "định",
-      "danh",
-      "vi",
-      "rút",
-      "khuẩn",
-      "miễn",
-      "dịch",
-      "tải",
-      "lượng",
-      "đường",
-      "huyết"
-    ]
-  },
-  {
-    "fullHSCode": "9402.10.10",
-    "shortHSCode": "9402",
-    "keyword": ["ghế", "nha", "khoa"]
-  },
-  {
-    "fullHSCode": "9402.90.10",
-    "shortHSCode": "9402",
-    "keyword": [
-      "nội",
-      "thất",
-      "giường",
-      "bệnh",
-      "nhân",
-      "điều",
-      "khiển",
-      "điện",
-      "bàn",
-      "mổ",
-      "cấp",
-      "cứu",
-      "hồi",
-      "sức",
-      "tủ",
-      "đầu",
-      "xe",
-      "đẩy",
-      "ghế",
-      "lấy",
-      "máu",
-      "truyền",
-      "dịch",
-      "hóa",
-      "chất"
-    ]
-  },
-  {
-    "fullHSCode": "9402.90.20",
-    "shortHSCode": "9402",
-    "keyword": ["ghế", "vệ", "sinh"]
-  },
-  {
-    "fullHSCode": "9405.10.20",
-    "shortHSCode": "9402",
-    "keyword": ["đèn", "mổ", "treo", "trần"]
-  },
-  {
-    "fullHSCode": "9405.20.10",
-    "shortHSCode": "9402",
-    "keyword": ["đèn", "mổ", "để", "bàn", "giường"]
-  },
-  {
-    "fullHSCode": "9405.20.90",
-    "shortHSCode": "9402",
-    "keyword": ["đèn", "khám"]
-  },
-  {
-    "fullHSCode": "9405.40.91",
-    "shortHSCode": "9402",
-    "keyword": ["đèn", "phẫu", "thuật"]
-  },
-  {
-    "fullHSCode": "3306.10.10",
-    "shortHSCode": "3306",
-    "keyword": ["bột", "nhão", "răng"]
-  },
-  {
-    "fullHSCode": "3306.20.00",
-    "shortHSCode": "3306",
-    "keyword": ["chỉ", "tơ", "nha", "khoa", "kẽ", "răng", "dental", "floss"]
-  },
-  {
-    "fullHSCode": "4014.10.00",
-    "shortHSCode": "4014",
-    "keyword": ["bao", "tránh", "thai"]
-  },
-  {
-    "fullHSCode": "4014.90.10",
-    "shortHSCode": "4014",
-    "keyword": ["núm", "vú", "bình", "trẻ", "em", "ăn"]
-  },
-  {
-    "fullHSCode": "4014.90.40",
-    "shortHSCode": "4014",
-    "keyword": ["nút", "đậy", "dược", "phẩm"]
-  },
-  {
-    "fullHSCode": "4014.90.50",
-    "shortHSCode": "4014",
-    "keyword": ["bao", "ngón", "tay"]
-  },
-  {
-    "fullHSCode": "9018.90.10",
-    "shortHSCode": "9018",
-    "keyword": ["đèn", "sợi", "quang", "đeo", "đầu"]
-  },
-  {
-    "fullHSCode": "9019.10.10",
-    "shortHSCode": "9019",
-    "keyword": [
-      "máy",
-      "trị",
-      "liệu",
-      "cơ",
-      "học",
-      "xoa",
-      "bóp",
-      "thử",
-      "nghiệm",
-      "trạng",
-      "thái",
-      "tâm",
-      "lý",
-      "điện"
-    ]
-  },
-  {
-    "fullHSCode": "9019.20.10",
-    "shortHSCode": "9019",
-    "keyword": [
-      "máy",
-      "trị",
-      "liệu",
-      "ôzôn",
-      "oxy",
-      "xông",
-      "hô",
-      "hấp",
-      "nhân",
-      "tạo",
-      "trợ",
-      "thở",
-      "xâm",
-      "lấn"
-    ]
-  },
-  {
-    "fullHSCode": "9019.20.20",
-    "shortHSCode": "9019",
-    "keyword": [
-      "máy",
-      "trị",
-      "liệu",
-      "ôzôn",
-      "oxy",
-      "xông",
-      "hô",
-      "hấp",
-      "nhân",
-      "tạo",
-      "trợ",
-      "thở"
-    ]
-  },
-  {
-    "fullHSCode": "9020.00.10",
-    "shortHSCode": "9020",
-    "keyword": [
-      "mặt",
-      "nạ",
-      "khuôn",
-      "full",
-      "face",
-      "chống",
-      "hóa",
-      "học",
-      "sinh",
-      "phóng",
-      "xạ",
-      "hạt",
-      "nhân",
-      "cbrn"
-    ]
-  }
+    {
+        "fullHSCode": "3005.90.90",
+        "shortHSCode": "3005",
+        "keyword": [
+            "bông"
+        ]
+    },
+    {
+        "fullHSCode": "3005.90.20",
+        "shortHSCode": "3005",
+        "keyword": [
+            "gạc"
+        ]
+    },
+    {
+        "fullHSCode": "3005.90.10",
+        "shortHSCode": "3005",
+        "keyword": [
+            "băng"
+        ]
+    },
+    {
+        "fullHSCode": "9405.20.90",
+        "shortHSCode": "9402",
+        "keyword": [
+            "đèn",
+            "khám"
+        ]
+    },
+    {
+        "fullHSCode": "9021.40.00",
+        "shortHSCode": "9021",
+        "keyword": [
+            "trợ",
+            "thính"
+        ]
+    },
+    {
+        "fullHSCode": "9021.39.00",
+        "shortHSCode": "9021",
+        "keyword": [
+            "nhân",
+            "tạo"
+        ]
+    },
+    {
+        "fullHSCode": "9021.31.00",
+        "shortHSCode": "9021",
+        "keyword": [
+            "khớp",
+            "giả"
+        ]
+    },
+    {
+        "fullHSCode": "9021.21.00",
+        "shortHSCode": "9021",
+        "keyword": [
+            "răng",
+            "giả"
+        ]
+    },
+    {
+        "fullHSCode": "9018.31.10",
+        "shortHSCode": "9018",
+        "keyword": [
+            "bơm",
+            "tiêm"
+        ]
+    },
+    {
+        "fullHSCode": "9018.11.00",
+        "shortHSCode": "9018",
+        "keyword": [
+            "điện",
+            "tim"
+        ]
+    },
+    {
+        "fullHSCode": "9004.90.10",
+        "shortHSCode": "9004",
+        "keyword": [
+            "kính",
+            "thuốc"
+        ]
+    },
+    {
+        "fullHSCode": "4015.19.00",
+        "shortHSCode": "4015",
+        "keyword": [
+            "găng",
+            "khám"
+        ]
+    },
+    {
+        "fullHSCode": "3006.20.00",
+        "shortHSCode": "3006",
+        "keyword": [
+            "nhóm",
+            "máu"
+        ]
+    },
+    {
+        "fullHSCode": "3002.11.00",
+        "shortHSCode": "3002",
+        "keyword": [
+            "sốt",
+            "rét"
+        ]
+    },
+    {
+        "fullHSCode": "4014.90.50",
+        "shortHSCode": "4014",
+        "keyword": [
+            "bao",
+            "ngón",
+            "tay"
+        ]
+    },
+    {
+        "fullHSCode": "4014.10.00",
+        "shortHSCode": "4014",
+        "keyword": [
+            "bao",
+            "tránh",
+            "thai"
+        ]
+    },
+    {
+        "fullHSCode": "3306.10.10",
+        "shortHSCode": "3306",
+        "keyword": [
+            "bột",
+            "nhão",
+            "răng"
+        ]
+    },
+    {
+        "fullHSCode": "9405.40.91",
+        "shortHSCode": "9402",
+        "keyword": [
+            "đèn",
+            "phẫu",
+            "thuật"
+        ]
+    },
+    {
+        "fullHSCode": "9402.90.20",
+        "shortHSCode": "9402",
+        "keyword": [
+            "ghế",
+            "vệ",
+            "sinh"
+        ]
+    },
+    {
+        "fullHSCode": "9402.10.10",
+        "shortHSCode": "9402",
+        "keyword": [
+            "ghế",
+            "nha",
+            "khoa"
+        ]
+    },
+    {
+        "fullHSCode": "9018.90.90",
+        "shortHSCode": "9018",
+        "keyword": [
+            "xuất",
+            "nhập",
+            "khẩu"
+        ]
+    },
+    {
+        "fullHSCode": "6211.43.10",
+        "shortHSCode": "6211",
+        "keyword": [
+            "áo",
+            "phẫu",
+            "thuật"
+        ]
+    },
+    {
+        "fullHSCode": "4014.10.00",
+        "shortHSCode": "4014",
+        "keyword": [
+            "bao",
+            "cao",
+            "su"
+        ]
+    },
+    {
+        "fullHSCode": "3701.10.00",
+        "shortHSCode": "3701",
+        "keyword": [
+            "phim",
+            "x",
+            "quang"
+        ]
+    },
+    {
+        "fullHSCode": "4014.90.40",
+        "shortHSCode": "4014",
+        "keyword": [
+            "nút",
+            "đậy",
+            "dược",
+            "phẩm"
+        ]
+    },
+    {
+        "fullHSCode": "9405.10.20",
+        "shortHSCode": "9402",
+        "keyword": [
+            "đèn",
+            "mổ",
+            "treo",
+            "trần"
+        ]
+    },
+    {
+        "fullHSCode": "9025.19.20",
+        "shortHSCode": "9025",
+        "keyword": [
+            "nhiệt",
+            "kế",
+            "thủy",
+            "ngân"
+        ]
+    },
+    {
+        "fullHSCode": "9025.19.19",
+        "shortHSCode": "9025",
+        "keyword": [
+            "nhiệt",
+            "kế",
+            "điện",
+            "tử"
+        ]
+    },
+    {
+        "fullHSCode": "9018.39.10",
+        "shortHSCode": "9018",
+        "keyword": [
+            "ống",
+            "thông",
+            "đường",
+            "tiểu"
+        ]
+    },
+    {
+        "fullHSCode": "9018.13.00",
+        "shortHSCode": "9018",
+        "keyword": [
+            "chụp",
+            "cộng",
+            "hưởng",
+            "từ"
+        ]
+    },
+    {
+        "fullHSCode": "6307.90.40",
+        "shortHSCode": "6307",
+        "keyword": [
+            "khẩu",
+            "trang",
+            "phẫu",
+            "thuật"
+        ]
+    },
+    {
+        "fullHSCode": "4015.11.00",
+        "shortHSCode": "4015",
+        "keyword": [
+            "găng",
+            "tay",
+            "phẫu",
+            "thuật"
+        ]
+    },
+    {
+        "fullHSCode": "3006.91.00",
+        "shortHSCode": "3006",
+        "keyword": [
+            "mổ",
+            "hậu",
+            "môn",
+            "giả"
+        ]
+    },
+    {
+        "fullHSCode": "3006.40.20",
+        "shortHSCode": "3006",
+        "keyword": [
+            "xi",
+            "măng",
+            "gắn",
+            "xương"
+        ]
+    },
+    {
+        "fullHSCode": "3006.40.10",
+        "shortHSCode": "3006",
+        "keyword": [
+            "xi",
+            "măng",
+            "hàn",
+            "răng"
+        ]
+    },
+    {
+        "fullHSCode": "9018.90.10",
+        "shortHSCode": "9018",
+        "keyword": [
+            "đèn",
+            "sợi",
+            "quang",
+            "đeo",
+            "đầu"
+        ]
+    },
+    {
+        "fullHSCode": "9405.20.10",
+        "shortHSCode": "9402",
+        "keyword": [
+            "đèn",
+            "mổ",
+            "để",
+            "bàn",
+            "giường"
+        ]
+    },
+    {
+        "fullHSCode": "9018.41.00",
+        "shortHSCode": "9018",
+        "keyword": [
+            "khoan",
+            "nha",
+            "khoa",
+            "giá",
+            "đỡ"
+        ]
+    },
+    {
+        "fullHSCode": "9018.14.00",
+        "shortHSCode": "9018",
+        "keyword": [
+            "ghi",
+            "biểu",
+            "đồ",
+            "nhấp",
+            "nháy"
+        ]
+    },
+    {
+        "fullHSCode": "9013.20.00",
+        "shortHSCode": "9013",
+        "keyword": [
+            "máy",
+            "chiếu",
+            "tia",
+            "laser",
+            "co2"
+        ]
+    },
+    {
+        "fullHSCode": "9011.80.00",
+        "shortHSCode": "9011",
+        "keyword": [
+            "kính",
+            "hiển",
+            "vi",
+            "phẫu",
+            "thuật"
+        ]
+    },
+    {
+        "fullHSCode": "4819.50.00",
+        "shortHSCode": "4819",
+        "keyword": [
+            "bao",
+            "bì",
+            "túi",
+            "nhựa",
+            "giấy"
+        ]
+    },
+    {
+        "fullHSCode": "3306.10.10",
+        "shortHSCode": "3306",
+        "keyword": [
+            "bột",
+            "nhão",
+            "chặt",
+            "chân",
+            "răng"
+        ]
+    },
+    {
+        "fullHSCode": "4014.90.10",
+        "shortHSCode": "4014",
+        "keyword": [
+            "núm",
+            "vú",
+            "bình",
+            "trẻ",
+            "em",
+            "ăn"
+        ]
+    },
+    {
+        "fullHSCode": "9021.10.00",
+        "shortHSCode": "9021",
+        "keyword": [
+            "chỉnh",
+            "hình",
+            "đinh,",
+            "nẹp,",
+            "vít",
+            "xương"
+        ]
+    },
+    {
+        "fullHSCode": "9018.90.20",
+        "shortHSCode": "9018",
+        "keyword": [
+            "theo",
+            "dõi",
+            "tĩnh",
+            "mạch",
+            "máy",
+            "soi"
+        ]
+    },
+    {
+        "fullHSCode": "9018.31.90",
+        "shortHSCode": "9018",
+        "keyword": [
+            "bơm",
+            "tiêm",
+            "điện",
+            "máy",
+            "truyền",
+            "dịch"
+        ]
+    },
+    {
+        "fullHSCode": "9002.90.90",
+        "shortHSCode": "9002",
+        "keyword": [
+            "kính",
+            "lúp",
+            "phẫu",
+            "thuật",
+            "soi",
+            "da"
+        ]
+    },
+    {
+        "fullHSCode": "9001.30.00",
+        "shortHSCode": "9001",
+        "keyword": [
+            "kính",
+            "áp",
+            "tròng",
+            "cận",
+            "viễn",
+            "loạn"
+        ]
+    },
+    {
+        "fullHSCode": "6212.90.91",
+        "shortHSCode": "6212",
+        "keyword": [
+            "đàn",
+            "hồi",
+            "mô",
+            "sẹo",
+            "ghép",
+            "da"
+        ]
+    },
+    {
+        "fullHSCode": "4823.90.99",
+        "shortHSCode": "4823",
+        "keyword": [
+            "ống",
+            "ép",
+            "dẹt",
+            "giấy",
+            "polyester",
+            "cuộn"
+        ]
+    },
+    {
+        "fullHSCode": "3822.00.20",
+        "shortHSCode": "3822",
+        "keyword": [
+            "bìa",
+            "tấm",
+            "sợi",
+            "màng",
+            "xơ",
+            "xenlulo"
+        ]
+    },
+    {
+        "fullHSCode": "3822.00.10",
+        "shortHSCode": "3822",
+        "keyword": [
+            "tấm",
+            "phiến",
+            "màng",
+            "lá",
+            "dải",
+            "plastic"
+        ]
+    },
+    {
+        "fullHSCode": "9021.50.00",
+        "shortHSCode": "9021",
+        "keyword": [
+            "điều",
+            "hòa",
+            "nhịp",
+            "tim",
+            "kích",
+            "thích",
+            "cơ"
+        ]
+    },
+    {
+        "fullHSCode": "9018.20.00",
+        "shortHSCode": "9018",
+        "keyword": [
+            "máy",
+            "chiếu",
+            "tia",
+            "cực",
+            "tím",
+            "hồng",
+            "ngoại"
+        ]
+    },
+    {
+        "fullHSCode": "6212.90.11",
+        "shortHSCode": "6212",
+        "keyword": [
+            "bông",
+            "đàn",
+            "hồi",
+            "mô",
+            "sẹo",
+            "ghép",
+            "da"
+        ]
+    },
+    {
+        "fullHSCode": "3701.99.90",
+        "shortHSCode": "3701",
+        "keyword": [
+            "tấm",
+            "cảm",
+            "biến",
+            "nhận",
+            "ảnh",
+            "x",
+            "quang"
+        ]
+    },
+    {
+        "fullHSCode": "3306.20.00",
+        "shortHSCode": "3306",
+        "keyword": [
+            "chỉ",
+            "tơ",
+            "nha",
+            "khoa",
+            "kẽ",
+            "răng",
+            "dental",
+            "floss"
+        ]
+    },
+    {
+        "fullHSCode": "9022.14.00",
+        "shortHSCode": "9022",
+        "keyword": [
+            "tia",
+            "x",
+            "chẩn",
+            "đoán",
+            "điều",
+            "trị",
+            "phẫu",
+            "thuật"
+        ]
+    },
+    {
+        "fullHSCode": "9022.13.00",
+        "shortHSCode": "9022",
+        "keyword": [
+            "thiết",
+            "bị",
+            "chẩn",
+            "đoán",
+            "điều",
+            "trị",
+            "nha",
+            "khoa"
+        ]
+    },
+    {
+        "fullHSCode": "6115.10.10",
+        "shortHSCode": "6115",
+        "keyword": [
+            "tất",
+            "vớ",
+            "giãn",
+            "tĩnh",
+            "mạch",
+            "sợi",
+            "tổng",
+            "hợp"
+        ]
+    },
+    {
+        "fullHSCode": "3005.10.10",
+        "shortHSCode": "3005",
+        "keyword": [
+            "băng",
+            "dán",
+            "lớp",
+            "dính",
+            "tráng",
+            "phủ",
+            "thấm",
+            "tẩm"
+        ]
+    },
+    {
+        "fullHSCode": "9022.12.00",
+        "shortHSCode": "9022",
+        "keyword": [
+            "chụp",
+            "cắt",
+            "lớp",
+            "ct",
+            "điều",
+            "khiển",
+            "bằng",
+            "máy",
+            "tính"
+        ]
+    },
+    {
+        "fullHSCode": "8421.19.90",
+        "shortHSCode": "8421",
+        "keyword": [
+            "máy",
+            "ly",
+            "tâm",
+            "chẩn",
+            "đoán",
+            "xét",
+            "nghiệm",
+            "sàng",
+            "lọc"
+        ]
+    },
+    {
+        "fullHSCode": "3006.50.00",
+        "shortHSCode": "3006",
+        "keyword": [
+            "hộp",
+            "bộ",
+            "dụng",
+            "cụ",
+            "cấp",
+            "cứu",
+            "kít",
+            "chăm",
+            "sóc"
+        ]
+    },
+    {
+        "fullHSCode": "9018.12.00",
+        "shortHSCode": "9018",
+        "keyword": [
+            "siêu",
+            "âm",
+            "đo",
+            "độ",
+            "loãng",
+            "xương",
+            "máy",
+            "nhịp",
+            "tim",
+            "thai"
+        ]
+    },
+    {
+        "fullHSCode": "3808.94.90",
+        "shortHSCode": "3808",
+        "keyword": [
+            "dung",
+            "dịch",
+            "hóa",
+            "chất",
+            "khử",
+            "khuẩn",
+            "dụng",
+            "cụ",
+            "thiết",
+            "bị"
+        ]
+    },
+    {
+        "fullHSCode": "3005.10.90",
+        "shortHSCode": "3005",
+        "keyword": [
+            "băng",
+            "dán",
+            "miếng",
+            "sát",
+            "khuẩn",
+            "hạ",
+            "sốt",
+            "lạnh",
+            "giữ",
+            "nhiệt"
+        ]
+    },
+    {
+        "fullHSCode": "8419.20.00",
+        "shortHSCode": "8419",
+        "keyword": [
+            "khử",
+            "trùng",
+            "máy",
+            "hấp",
+            "tiệt",
+            "trùng",
+            "nồi",
+            "nhiệt",
+            "độ",
+            "thấp",
+            "plasma"
+        ]
+    },
+    {
+        "fullHSCode": "3307.90.50",
+        "shortHSCode": "3307",
+        "keyword": [
+            "dung",
+            "dịch",
+            "ngâm",
+            "rửa",
+            "làm",
+            "sạch",
+            "bảo",
+            "quản",
+            "kính",
+            "áp",
+            "tròng"
+        ]
+    },
+    {
+        "fullHSCode": "9019.20.20",
+        "shortHSCode": "9019",
+        "keyword": [
+            "máy",
+            "trị",
+            "liệu",
+            "ôzôn",
+            "oxy",
+            "xông",
+            "hô",
+            "hấp",
+            "nhân",
+            "tạo",
+            "trợ",
+            "thở"
+        ]
+    },
+    {
+        "fullHSCode": "3006.70.00",
+        "shortHSCode": "3006",
+        "keyword": [
+            "gel",
+            "chất",
+            "bôi",
+            "trơn",
+            "siêu",
+            "âm",
+            "đạo",
+            "dịch",
+            "nhầy",
+            "phẫu",
+            "thuật",
+            "phaco"
+        ]
+    },
+    {
+        "fullHSCode": "3822.00.90",
+        "shortHSCode": "3822",
+        "keyword": [
+            "que",
+            "thử",
+            "khay",
+            "chất",
+            "hiệu",
+            "chuẩn",
+            "vật",
+            "liệu",
+            "kiểm",
+            "soát",
+            "in",
+            "vitro"
+        ]
+    },
+    {
+        "fullHSCode": "9022.90.90",
+        "shortHSCode": "9022",
+        "keyword": [
+            "đồng",
+            "vị",
+            "phóng",
+            "xạ",
+            "pet",
+            "spect",
+            "đo",
+            "độ",
+            "tập",
+            "trung",
+            "iốt",
+            "i130",
+            "i131"
+        ]
+    },
+    {
+        "fullHSCode": "3006.10.10",
+        "shortHSCode": "3006",
+        "keyword": [
+            "chỉ",
+            "tự",
+            "tiêu",
+            "vô",
+            "trùng",
+            "nha",
+            "khoa",
+            "phẫu",
+            "thuật",
+            "miếng",
+            "chắn",
+            "dính,",
+            "đệm"
+        ]
+    },
+    {
+        "fullHSCode": "9020.00.10",
+        "shortHSCode": "9020",
+        "keyword": [
+            "mặt",
+            "nạ",
+            "khuôn",
+            "full",
+            "face",
+            "chống",
+            "hóa",
+            "học",
+            "sinh",
+            "phóng",
+            "xạ",
+            "hạt",
+            "nhân",
+            "cbrn"
+        ]
+    },
+    {
+        "fullHSCode": "9019.20.10",
+        "shortHSCode": "9019",
+        "keyword": [
+            "máy",
+            "trị",
+            "liệu",
+            "ôzôn",
+            "oxy",
+            "xông",
+            "hô",
+            "hấp",
+            "nhân",
+            "tạo",
+            "trợ",
+            "thở",
+            "xâm",
+            "lấn"
+        ]
+    },
+    {
+        "fullHSCode": "9019.10.10",
+        "shortHSCode": "9019",
+        "keyword": [
+            "máy",
+            "trị",
+            "liệu",
+            "cơ",
+            "học",
+            "xoa",
+            "bóp",
+            "thử",
+            "nghiệm",
+            "trạng",
+            "thái",
+            "tâm",
+            "lý",
+            "điện"
+        ]
+    },
+    {
+        "fullHSCode": "8713.10.00 8713.90.00",
+        "shortHSCode": "8713",
+        "keyword": [
+            "xe",
+            "lăn",
+            "đẩy",
+            "cáng",
+            "cứu",
+            "thương",
+            "chở",
+            "người",
+            "tàn",
+            "tật",
+            "vận",
+            "hành",
+            "cơ",
+            "giới"
+        ]
+    },
+    {
+        "fullHSCode": "9018.32.00",
+        "shortHSCode": "9018",
+        "keyword": [
+            "kim",
+            "tiêm",
+            "loại",
+            "khâu",
+            "phẫu",
+            "thuật",
+            "bút",
+            "lấy",
+            "máu",
+            "dịch",
+            "cơ",
+            "thể",
+            "thận",
+            "nhân",
+            "tạo",
+            "luồn",
+            "mạch"
+        ]
+    },
+    {
+        "fullHSCode": "9022.21.00",
+        "shortHSCode": "9022",
+        "keyword": [
+            "tia",
+            "alpha",
+            "beta",
+            "gamma",
+            "phẫu",
+            "thuật",
+            "nha",
+            "khoa",
+            "máy",
+            "coban",
+            "ung",
+            "thư,",
+            "gia",
+            "tốc",
+            "tuyến",
+            "tính",
+            "dao",
+            "mổ",
+            "xạ",
+            "trị",
+            "áp",
+            "sát"
+        ]
+    },
+    {
+        "fullHSCode": "9402.90.10",
+        "shortHSCode": "9402",
+        "keyword": [
+            "nội",
+            "thất",
+            "giường",
+            "bệnh",
+            "nhân",
+            "điều",
+            "khiển",
+            "điện",
+            "bàn",
+            "mổ",
+            "cấp",
+            "cứu",
+            "hồi",
+            "sức",
+            "tủ",
+            "đầu",
+            "xe",
+            "đẩy",
+            "ghế",
+            "lấy",
+            "máu",
+            "truyền",
+            "dịch",
+            "hóa",
+            "chất"
+        ]
+    },
+    {
+        "fullHSCode": "3004.90.99",
+        "shortHSCode": "3004",
+        "keyword": [
+            "xịt",
+            "kem",
+            "phòng",
+            "ngừa",
+            "loét",
+            "tì",
+            "đè",
+            "muối",
+            "vệ",
+            "sinh",
+            "mũi",
+            "nước",
+            "biển",
+            "tai",
+            "họng",
+            "mắt",
+            "nhân",
+            "tạo",
+            "nhũ",
+            "tương",
+            "nhỏ",
+            "làm",
+            "ẩm",
+            "mềm",
+            "miệng",
+            "lọc",
+            "thận"
+        ]
+    },
+    {
+        "fullHSCode": "9018.39.90",
+        "shortHSCode": "9018",
+        "keyword": [
+            "ống",
+            "thông",
+            "dẫn",
+            "lưu",
+            "mở",
+            "đường",
+            "mạch",
+            "máu",
+            "bộ",
+            "kít",
+            "pool",
+            "tiểu",
+            "cầu",
+            "lọc",
+            "bạch",
+            "dây",
+            "nối",
+            "quả",
+            "rút",
+            "nước",
+            "dạ",
+            "dày",
+            "ăn",
+            "lấy",
+            "mẫu",
+            "bơm",
+            "tiêm",
+            "điện"
+        ]
+    },
+    {
+        "fullHSCode": "9018.19.00",
+        "shortHSCode": "9018",
+        "keyword": [
+            "theo",
+            "dõi",
+            "bệnh",
+            "nhân",
+            "độ",
+            "vàng",
+            "da",
+            "điện",
+            "não",
+            "cơ",
+            "nội",
+            "soi",
+            "chẩn",
+            "đoán",
+            "máy",
+            "đo",
+            "phân",
+            "tích",
+            "hô",
+            "hấp",
+            "định",
+            "vị",
+            "kiểm",
+            "tra",
+            "thông",
+            "số",
+            "sinh",
+            "lý"
+        ]
+    },
+    {
+        "fullHSCode": "9021.90.00",
+        "shortHSCode": "9021",
+        "keyword": [
+            "lắp",
+            "mang",
+            "theo",
+            "cấy",
+            "ghép",
+            "bù",
+            "đắp",
+            "khuyết",
+            "tật",
+            "suy",
+            "giảm",
+            "khung",
+            "giá",
+            "đỡ",
+            "mạch",
+            "vành",
+            "hạt",
+            "nút",
+            "lưới",
+            "lọc",
+            "huyết",
+            "khối",
+            "đóng",
+            "động",
+            "thủy",
+            "tinh",
+            "thể",
+            "nhân",
+            "tạo"
+        ]
+    },
+    {
+        "fullHSCode": "3006.10.90",
+        "shortHSCode": "3006",
+        "keyword": [
+            "chỉ",
+            "không",
+            "tự",
+            "tiêu",
+            "cầm",
+            "máu",
+            "vô",
+            "trùng",
+            "phẫu",
+            "thuật",
+            "nha",
+            "khoa",
+            "tấm",
+            "nâng",
+            "lưới",
+            "thoát",
+            "vị",
+            "keo",
+            "dán",
+            "màng",
+            "ngăn",
+            "hấp",
+            "thu",
+            "sinh",
+            "học",
+            "tạo",
+            "khép",
+            "miệng",
+            "tảo",
+            "nong",
+            "nút"
+        ]
+    },
+    {
+        "fullHSCode": "9018.50.00",
+        "shortHSCode": "9018",
+        "keyword": [
+            "nhãn",
+            "khoa",
+            "máy",
+            "đo",
+            "khúc",
+            "xạ",
+            "giác",
+            "mạc",
+            "điện",
+            "võng",
+            "chụp",
+            "cắt",
+            "lớp",
+            "đáy",
+            "mắt",
+            "huỳnh",
+            "quang",
+            "đáy",
+            "phẫu",
+            "thuật",
+            "laser",
+            "excimer",
+            "phemtosecond",
+            "phaco",
+            "dịch",
+            "kính",
+            "vạt",
+            "thông",
+            "áp",
+            "lực",
+            "nội",
+            "glôcôm"
+        ]
+    },
+    {
+        "fullHSCode": "9027.80.30",
+        "shortHSCode": "9027",
+        "keyword": [
+            "lý",
+            "hóa",
+            "học",
+            "phân",
+            "tích",
+            "sinh",
+            "điện",
+            "giải",
+            "khí",
+            "máu",
+            "huyết",
+            "đông",
+            "tốc",
+            "độ",
+            "lắng",
+            "elisa",
+            "nhóm",
+            "chiết",
+            "tách",
+            "tế",
+            "bào",
+            "ngưng",
+            "tập",
+            "chức",
+            "năng",
+            "tiểu",
+            "cầu",
+            "định",
+            "danh",
+            "vi",
+            "rút",
+            "khuẩn",
+            "miễn",
+            "dịch",
+            "tải",
+            "lượng",
+            "đường",
+            "huyết"
+        ]
+    },
+    {
+        "fullHSCode": "9018.90.30",
+        "shortHSCode": "9018",
+        "keyword": [
+            "phẫu",
+            "thuật",
+            "nha",
+            "khoa",
+            "máy",
+            "phá",
+            "rung",
+            "tim",
+            "dao",
+            "điện",
+            "siêu",
+            "âm",
+            "mổ",
+            "laser",
+            "gây",
+            "mê",
+            "kèm",
+            "thở",
+            "lồng",
+            "ấp",
+            "trẻ",
+            "sơ",
+            "sinh",
+            "tán",
+            "sỏi",
+            "lọc",
+            "máu",
+            "lạnh",
+            "phổi",
+            "nhân",
+            "tạo",
+            "gan",
+            "chạy",
+            "thận",
+            "thẩm",
+            "phân",
+            "phúc",
+            "mạc",
+            "suy",
+            "tiền",
+            "liệt",
+            "tuyến"
+        ]
+    },
+    {
+        "fullHSCode": "3926.90.39",
+        "shortHSCode": "3926",
+        "keyword": [
+            "plastic",
+            "cuvet",
+            "đầu",
+            "côn",
+            "khay",
+            "ngâm",
+            "dụng",
+            "cụ",
+            "tiệt",
+            "khuẩn",
+            "bộ",
+            "chuyển",
+            "tiếp",
+            "ống",
+            "nối",
+            "nẹp",
+            "mặt",
+            "nạ",
+            "cố",
+            "định",
+            "kẹp",
+            "thông",
+            "dây",
+            "dẫn",
+            "miếng",
+            "dán",
+            "giữ",
+            "túi",
+            "đựng",
+            "nước",
+            "tiểu",
+            "dịch",
+            "xả",
+            "nghiệm",
+            "chứa",
+            "chất",
+            "chống",
+            "đông",
+            "ép",
+            "trùng",
+            "bao",
+            "bì",
+            "dụng",
+            "cụ",
+            "chụp",
+            "đầu",
+            "đèn",
+            "camera",
+            "soi",
+            "bệnh",
+            "phẩm",
+            "nội"
+        ]
+    }
 ]
