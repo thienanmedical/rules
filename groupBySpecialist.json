@@ -22,12 +22,12 @@
       {
         "name": "Quả lọc liên tục",
         "keyword": [
-          "quả&liêntục",
-          "màng&liêntục",
+          "quả&liên tục",
+          "màng&liên tục",
           "quả&omni",
           "màng&omni",
-          "quả&bộdây",
-          "màng&bộdây",
+          "quả&bộ dây",
+          "màng&bộ dây",
           "quả&prismaflex",
           "màng&prismaflex"
         ],
@@ -35,27 +35,27 @@
       },
       {
         "name": "Quả lọc hấp phụ",
-        "keyword": ["quả&hấpphụ", "màng&hấpphụ"],
+        "keyword": ["quả&hấp phụ", "màng&hấp phụ"],
         "unit": []
       },
       {
         "name": "Quả lọc tách huyết tương",
-        "keyword": ["quả&huyếttương"],
+        "keyword": ["quả&huyết tương"],
         "unit": []
       },
       {
         "name": "Quả lọc chu kỳ",
-        "keyword": ["quảlọc", "mànglọc", "siêulọc", "thônglượng", "low", "high", "middle"],
+        "keyword": ["quả lọc", "màng lọc", "siêu lọc", "thông lượng", "low", "high", "middle"],
         "unit": []
       },
       {
         "name": "Lọc màng bụng",
-        "keyword": ["màngbụng"],
+        "keyword": ["màng bụng"],
         "unit": []
       },
       {
         "name": "Dây lọc liên tục",
-        "keyword": ["dây&liêntục", "dây&prismaflex"],
+        "keyword": ["dây&liên tục", "dây&prismaflex"],
         "unit": []
       },
       {
@@ -70,60 +70,60 @@
       },
       {
         "name": "Dịch lọc",
-        "keyword": ["dịchlọc", "thẩmphân", "hdplus"],
+        "keyword": ["dịch lọc", "thẩm phân", "hd plus"],
         "unit": []
       },
       {
         "name": "Axit citric bột",
         "keyword": [
-          "axitcitric",
-          "acidcitric",
-          "rửamáy",
-          "tẩyrửamáy",
-          "khửtrùngmáy",
-          "khửkhuẩnmáy",
-          "làmsạchmáy",
-          "tẩykhuẩnmáy"
+          "axit citric",
+          "acid citric",
+          "rửa máy",
+          "tẩy rửa máy",
+          "khử trùng máy",
+          "khử khuẩn máy",
+          "làm sạch máy",
+          "tẩy khuẩn máy"
         ],
         "unit": []
       },
       {
         "name": "Axit citric lỏng",
         "keyword": [
-          "axitcitric",
-          "acidcitric",
-          "rửamáy",
-          "tẩyrửamáy",
-          "khửtrùngmáy",
-          "khửkhuẩnmáy",
-          "làmsạchmáy",
-          "tẩykhuẩnmáy"
+          "axit citric",
+          "acid citric",
+          "rửa máy",
+          "tẩy rửa máy",
+          "khử trùng máy",
+          "khử khuẩn máy",
+          "làm sạch máy",
+          "tẩy khuẩn máy"
         ],
         "unit": []
       },
       {
         "name": "Dung dịch rửa màng",
         "keyword": [
-          "rửamàng",
-          "rửaquả",
+          "rửa màng",
+          "rửa quả",
           "peracetic",
           "mdt",
           "vertecid",
           "vertexit",
-          "khửtrùngquả",
-          "khửtrùngmàng",
-          "bảoquảnquả",
-          "bảoquảnmàng",
-          "diệtkhuẩnmàng",
-          "diệtkhuẩnquả",
-          "ngâmquả",
-          "ngâmmàng",
-          "sátkhuẩnmàng",
-          "sátkhuẩnquả",
-          "tẩykhuẩnmàng",
-          "tẩykhuẩnquả",
-          "tẩytrùngquả",
-          "tẩytrùngmàng"
+          "khử trùng quả",
+          "khử trùng màng",
+          "bảo quản quả",
+          "bảo quản màng",
+          "diệt khuẩn màng",
+          "diệt khuẩn quả",
+          "ngâm quả",
+          "ngâm màng",
+          "sát khuẩn màng",
+          "sát khuẩn quả",
+          "tẩy khuẩn màng",
+          "tẩy khuẩn quả",
+          "tẩy trùng quả",
+          "tẩy trùng màng"
         ],
         "unit": []
       },
@@ -134,12 +134,12 @@
       },
       {
         "name": "Máy thận liên tục",
-        "keyword": ["máy&liêntục", "máy&prismaflex"],
+        "keyword": ["máy&liên tục", "máy&prismaflex"],
         "unit": []
       },
       {
         "name": "Máy thận chu kỳ",
-        "keyword": ["máychạythận", "máylọcthận", "máythận", "máytnt"],
+        "keyword": ["máy chạy thận", "máy lọc thận", "máy thận", "máy tnt"],
         "unit": []
       },
       {
@@ -154,7 +154,7 @@
       },
       {
         "name": "FAV",
-        "keyword": ["fav", "bộtiêmchích", "gạcthận"],
+        "keyword": ["fav", "bộ tiêm chích", "gạc thận"],
         "unit": []
       },
       {
